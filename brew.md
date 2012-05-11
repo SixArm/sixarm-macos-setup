@@ -16,7 +16,10 @@ I got a "missing path" error and some options to correct it, so I ran this:
 
 Brew install:
 
-    echo ack colordiff curl emacs geoip git gpg hg imagemagick libmagic libmemcached libxml2 libxslt lzo memcached most mysql nginx postgresql readline redis rename sphinx sqlite tomcat v8 wget | xargs brew install 
+    echo ack colordiff curl emacs geoip git gpg hg imagemagick libmagic \
+      libmemcached libxml2 libxslt lzo memcached most mysql nginx postgresql \
+      rbenv readline redis rename ruby ruby-build sphinx sqlite tomcat v8 wget \
+      | xargs brew install 
     brew link libmagic
 
 

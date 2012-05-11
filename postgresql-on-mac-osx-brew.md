@@ -16,6 +16,13 @@ Brew creates symlinks:
     lrwxr-xr-x  1 joel  admin  37 Apr  9 16:21 /usr/local/bin/pg_ctl -> ../Cellar/postgresql/9.1.3/bin/pg_ctl
 
 
+Brew shows the typical postgresql help output.
+
+To create a database:
+
+    initdb /usr/local/var/postgres
+
+
 ## Generic setup
 
 Create a database directory:
