@@ -22,4 +22,4 @@ Source:
 
 Some of the Ruby gems work better if we install them as root, globally, because they install system dependencies:
 
-    echo archive-tar-minitar ffi childprocess log4r net-ssh net-scp | xargs gem install
+    echo archive-tar-minitar debugger-linecache ffi childprocess log4r net-ssh net-scp | xargs gem install
