@@ -1,4 +1,4 @@
-# Brew Mac package manager
+# Brew package manager
 
 Install the Homebrew package manager:
 

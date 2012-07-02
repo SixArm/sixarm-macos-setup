@@ -37,3 +37,14 @@ Start:
 
     pg_ctl -D /foo/bar -l /var/log/postgresql/bar.log start
 
+
+## PostgreSQL Ruby pg gem 
+
+The pg gem may need the pg_config file:
+
+    find / | grep pg_config
+
+To fix libpq errors:
+
+    bundle config build.pg --with-pg-config=/opt/local/lib/postgresql91/bin/pg_config
+
