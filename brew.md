@@ -5,7 +5,12 @@ Install the Homebrew package manager:
 https://github.com/mxcl/homebrew/wiki/installation
 
 
-### Missing path
+## Brew or Port?
+
+In my opinion Homebrew is better than Mac Ports.
+
+
+## Missing path
 
 I got a "missing path" error and some options to correct it, so I ran this:
 
@@ -38,7 +43,14 @@ Fix warnings, for example:
     Warning: Homebrew's sbin was not found in your path.
     Consider amending your PATH variable so it contains:  /usr/local/sbin
 
-## Brew or Port?
+    Experimental support for using Xcode with the "Command Line Tools".
 
-In my opinion Homebrew is better than Mac Ports.
+
+## Command Line Tools
+
+I got this error:
+
+    Experimental support for using Xcode with the "Command Line Tools".
+
+To fix it, launch Xcode and install the component called Command Line Tools (see <a href=xcode.md>xcode.md</a>)
 
