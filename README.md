@@ -10,6 +10,7 @@ Our notes are primarily for OSX 10.7 a.k.a. Lion.
 
   * Apple menu > Software Update...
   * Register for Apple Id (if you don't already have one)
+
   
 ## Globalization Settings
 
@@ -24,9 +25,9 @@ Our notes are primarily for OSX 10.7 a.k.a. Lion.
 
 ## Developer software and notes
 
-  * <a href=applications.md>applications.md</a>: Applications that we use</a>
-  * <a href=xcode.md>xcode.md</a>: Xcode development tools</a>
-  * <a href=brew.md>brew.md</a>: Brew Mac package manager</a>
+  * <a href="applications.md">applications.md</a>: Applications that we use</a>
+  * <a href="xcode.md">xcode.md</a>: Xcode development tools</a>
+  * <a href="brew.md">brew.md</a>: Brew Mac package manager</a>
   * <a href=adium.md>adium.md</a>: Adium instant messenger settings</a>
 
 
