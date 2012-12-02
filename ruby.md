@@ -1,8 +1,8 @@
 # Ruby
 
-I install Ruby by using rbenv and ruby-build, which are similar to RVM.
+I install Ruby by using <code>rbenv</code> and <code>ruby-build</code> which are similar to RVM.
 
-I put rbenv and ruby-build in my /opt directory; you can put yours anywhere you like.
+I put these in my <code>/opt</code> directory; you can put yours anywhere you like.
 
     cd /opt
     git clone git://github.com/sstephenson/rbenv.git 
@@ -17,7 +17,7 @@ I personally install my Ruby versions in /opt like this:
 
     CC=/usr/bin/gcc ruby-build 1.9.3-p125 /opt/ruby/1.9.3-p125
 
-You may prefer to install your Ruby version in the default location, which is in your home directory:
+You may prefer to install your Ruby version in the default location, which inside your home directory in a subdirectory created by ruby-build:
 
     CC=/usr/bin/gcc ruby-build 1.9.3-p125
     
