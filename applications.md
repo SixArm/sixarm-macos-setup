@@ -7,11 +7,13 @@ We download these software applications as DMG files, i.e. Apple Disk Images, th
 Good for everyone:
 
   * Adium instant messenging
-  * Chrome web browser
+  * Chrome web browser and add ons:
+    * Google Hangouts
   * Dropbox file sharing
-  * Firefox web browser
+  * Firefox web browser and add ons:
+    * Adblock
+    * FlashGot
   * Flash Player
-  * Google Voice And Video Setup for Google Hangouts
   * OpenOffice
   * Skype instant messenger and video calling
   * Sublime text editor
