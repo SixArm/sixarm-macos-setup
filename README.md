@@ -16,7 +16,8 @@ Our notes are primarily for OSX 10.7 a.k.a. Lion.
 
 Apple menu > System Preferences
 
-  * Language & Text icon > Regions tab (Older systems may say Formats)
+Language & Text icon 
+  * Regions tab (Older systems may say Formats)
     * Dates area 
       * Customize button > Change to ISO standard dates: (2013)-(01)-(01)
     * Times area
@@ -24,7 +25,7 @@ Apple menu > System Preferences
   * General icon 
     * Recent items: (set to max)
   * Dock icon 
-    *Automatically hide and show the Dock
+    * Automatically hide and show the Dock (check)
 
 
 ## Developer software and notes
