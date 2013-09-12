@@ -12,15 +12,19 @@ Our notes are primarily for OSX 10.7 a.k.a. Lion.
   * Register for Apple Id (if you don't already have one)
 
   
-## Globalization Settings
+## Preferences
 
-  * Language & Text > Formats > Dates > Customize... > Change to ISO standard dates: 2012-12-31
-  * Language & Text > Formats > Times > Customize... > Change to military time: 00-23
+Apple menu > System Preferences
 
-
-## Personal preferecnes
-
-  * Dock > Show/Hide
+  * Language & Text icon > Regions tab (Older systems may say Formats)
+    * Dates area 
+      * Customize button > Change to ISO standard dates: (2013)-(01)-(01)
+    * Times area
+      * Customize button > Change to military time: (00-23):(00):(00) PST
+  * General icon 
+    * Recent items: (set to max)
+  * Dock icon 
+    *Automatically hide and show the Dock
 
 
 ## Developer software and notes
