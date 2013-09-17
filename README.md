@@ -56,8 +56,8 @@ Keyboard icon
   * <a href=emacs.md>emacs.md</a>: Emacs text editor</a>
   * <a href=iterm2.md>iterm2.md</a>: iTerm2 terminal emulator for Unix shell commands
   * <a href=ruby.md>ruby.md</a>: Ruby programming
-  * <a href=java.md>ruby.md</a>: Java programming
+  * <a href=java.md>java.md</a>: Java programming
   * <a href=chef.md>chef.md</a>: Chef system manager
-  * <a href=virtualhosts.md>chef.md</a>: Virtual hosts
+  * <a href=virtualhosts.md>virtualhosts.md</a>: Virtual hosts
 
 
