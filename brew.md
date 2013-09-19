@@ -1,8 +1,6 @@
 # Brew package manager
 
-Install the Homebrew package manager:
-
-https://github.com/mxcl/homebrew/wiki/installation
+Brew is the "Homebrew" package manager.
 
 
 ## Brew or Port?
@@ -19,6 +17,19 @@ Launch Xcode and install the component called Command Line Tools (see <a href=xc
 If we don't install these, we get messages like:
 
     Experimental support for using Xcode with the "Command Line Tools".
+
+
+Install the Homebrew package manager:
+
+https://github.com/mxcl/homebrew/wiki/installation
+
+
+## Update & Upgrade
+
+If we already have brew:
+
+    brew update
+    brew upgrade
 
 
 ## Path using sbin
@@ -46,9 +57,11 @@ I got a "missing path" error and some options to correct it, so I ran this:
 
 Brew install:
 
-    echo ack colordiff curl emacs geoip git gpg hg imagemagick libmagic \
-      libmemcached libxml2 libxslt lzo memcached most mysql nginx postgresql \
-      rbenv readline redis rename ruby ruby-build sphinx sqlite tomcat v8 wget \
+   brew install zsh
+   ... for a complete list of what we use, see brew-install.txt ...   
+    echo ack apple-gcc42 colordiff ctags curl emacs geoip git gpg hg imagemagick libmagic \
+      libmemcached libxml2 libxslt lzo meld memcached most mysql nginx pcre postgresql \
+      rbenv readline redis rename ruby ruby-build sphinx sqlite tomcat v8 wget zsh \
       | xargs brew install 
     brew link libmagic
 
