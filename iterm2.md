@@ -8,23 +8,30 @@ iTerm2 is a better terminal app than the Mac's built in app.
 <ul>
   <li>iTerm Preferences
   <ul>
-    <li>Keys top tab
-    <ul>
-      <li>Left-option key acts as +Esc
-    </ul>
-    <li>Profiles top tab
-    <ul>
-      <li>Terminal tab 
-      <ul>
-        <li>Silence bell (check it)
-      </ul>
-    </ul>
-    <li>Appearance tab
+    <li>General icon
+    <li>Appearance icon
     <ul>
       <li>Window & Tab Titles area
       <ul>
         <li>uncheck all
       </ul>
+    </ul>
+    <li>Profiles icon
+    <ul>
+      <li>General tab 
+      <li>Colors tab 
+      <li>Text tab 
+      <li>Window tab 
+      <li>Terminal tab 
+      <ul>
+        <li>Silence bell (check it)
+      </ul>
+      <li>Session tab 
+      <li>Keys tab
+      <ul>
+        <li>Left-option key acts as +Esc
+      </ul>
+      <li>Advanced tab 
     </ul>
   </ul>
 </ul>
