@@ -10,7 +10,7 @@ iTerm2 is a better terminal app than the Mac's built in app.
   <ul>
     <li>Keys top tab
     <ul>
-      <ul>Left-option key acts as +Esc
+      <li>Left-option key acts as +Esc
     </ul>
     <li>Profiles top tab
     <ul>
