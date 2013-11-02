@@ -2,7 +2,6 @@
 brew install libevent
 brew install libmagic
 brew install libmemcached
-brew install libpurple
 brew install libxml2
 brew install libxslt
 
