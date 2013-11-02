@@ -68,7 +68,6 @@ brew install xclip
 
 ## Language-Related
 brew install clojure
-brew install clojure-contrib
 brew install closure-compiler
 brew install cpansearch
 brew install elixir
