@@ -47,6 +47,7 @@ Good for everyone:
   * <a href="http://java.com/en/">Java</a> runtime
   * <a href="http://libreoffice.org">LibreOffice</a> for writing, spreadsheets, etc.
   * <a href="http://skype.com">Skype</a> instant messenger and video calling
+  * <a href="http://www.transmissionbt.com/">Transmission</a> bittorrent
   * <a href="http://www.videolan.org/vlc/index.html">VLC</a> media player
   * <a href="http://sublimetext.com">Sublime</a> text editor
 
@@ -71,4 +72,4 @@ Good for developers:
   * Sencha/SenchaAnimator-*.dmg
   * Vagrant-*.*.*.dmg
   * <a href="https://www.virtualbox.org/">VirtualBox</a>
-
+    * <a href="http://virtualboxes.org/images/ubuntu">Ubuntu</a> image
