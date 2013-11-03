@@ -35,17 +35,20 @@ We download these software applications as DMG files, i.e. Apple Disk Images, th
 
 Good for everyone:
 
-  * Adium instant messenging
-  * Chrome web browser and add ons:
-    * Google Hangouts
-  * Dropbox file sharing
-  * Firefox web browser and add ons:
+  * <a href="http://adium.im">Adium</a> instant messenging
+  * <a href="http://get.adobe.com/flashplayer/otherversions/">Adobe Flash</a> player
+  * <a href="http://dropbox.com">Dropbox</a> file sharing
+  * <a href="http://firefox.com">Firefox</a> web browser and add ons:
     * Adblock
     * FlashGot
-  * Flash Player
-  * OpenOffice
-  * Skype instant messenger and video calling
-  * Sublime text editor
+  * <a href="http://justgetflux.com">F.lux</a> screen color adjuster
+  * <a href="https://www.google.com/intl/en/chrome/browser/welcome.html">Google Chrome</a> web browser and add ons:
+    * <a href="http://www.google.com/hangouts/">Google Hangouts</a>
+  * <a href="http://java.com/en/">Java</a> runtime
+  * <a href="http://libreoffice.org">LibreOffice</a> for writing, spreadsheets, etc.
+  * <a href="http://skype.com">Skype</a> instant messenger and video calling
+  * <a href="http://www.videolan.org/vlc/index.html">VLC</a> media player
+  * <a href="http://sublimetext.com">Sublime</a> text editor
 
 
 Good for developers:
@@ -60,11 +63,12 @@ Good for developers:
   * jquery-ui-*
   * jquery-ui-themes-*.zip
   * jruby-bin-*
-  * qt-mac-opensource-*.dmg
-  * RubyMine: RubyMine_*.dmg
+  * <a href="http://qt-project.org">Qt</a> cross platform framework
+  * <a href="http://www.jetbrains.com/ruby/">RubyMine</a>
+  * <a href="http://www.soapui.org">SoapUI testing tool</a>
   * Sencha/ext-*.*.*-commercial.zip
   * Sencha/sencha-touch-*-commercial.zip
   * Sencha/SenchaAnimator-*.dmg
   * Vagrant-*.*.*.dmg
-  * VirtualBox-*-OSX.dmg
+  * <a href="https://www.virtualbox.org/>VirtualBox</a>
 
