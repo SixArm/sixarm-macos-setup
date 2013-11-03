@@ -70,5 +70,5 @@ Good for developers:
   * Sencha/sencha-touch-*-commercial.zip
   * Sencha/SenchaAnimator-*.dmg
   * Vagrant-*.*.*.dmg
-  * <a href="https://www.virtualbox.org/>VirtualBox</a>
+  * <a href="https://www.virtualbox.org/">VirtualBox</a>
 
