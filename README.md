@@ -1,4 +1,4 @@
-# SixArm.com » Mac OSX  Installation Help Notes 
+# SixArm.com » <br>Mac OSX  Installation Help Notes 
 
 These are our team's ad-hoc notes for setting up a typical Mac OSX developer laptop. YMMV.
 
@@ -66,4 +66,10 @@ Load:
   * <a href=chef.md>chef.md</a>: Chef system manager
   * <a href=virtualhosts.md>virtualhosts.md</a>: Virtual hosts
 
+## Git
+
+Git config:
+
+    git config --global user.name "Your Full Name"
+    git config --global user.name "you@example.com"
 
