@@ -11,7 +11,8 @@ Our notes are primarily for OSX 10.7 a.k.a. Lion.
   * Apple menu > Software Update...
   * Register for Apple Id (if you don't already have one)
   * <a href="system_preferences.md">system_preferences.md</a>: System Preferences</a>
-  * <a href="applications.md">applications.md</a>: Applications that we use</a>
+  * <a href="appstore.md">App Store apps</a>
+  * <a href="applications.md">applications.md</a>: Applications that we download</a>
 
 ## Admin
 
