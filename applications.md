@@ -27,6 +27,7 @@ Good for developers:
   * ErgoEmacs text editor settings
   * GCC: Gnu Compiler Collection for programming
   * iTerm2 terminal for Unix shell commands
+  * <a href="https://www.java.com/en/download/faq/java_mac.xml">Java</a>
   * jquery-*.min
   * jquery-ui-*
   * jquery-ui-themes-*.zip
