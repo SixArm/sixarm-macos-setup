@@ -26,6 +26,7 @@ Good for developers:
   * Emacs text editor
   * ErgoEmacs text editor settings
   * GCC: Gnu Compiler Collection for programming
+  * <a href="http://www.gimp.org/">GIMP</a> image editor, similar to Adobe Photoshop
   * iTerm2 terminal for Unix shell commands
   * <a href="https://www.java.com/en/download/faq/java_mac.xml">Java</a>
   * jquery-*.min
