@@ -21,6 +21,7 @@ Good for everyone:
 
 Good for developers:
 
+  * <a href=http://x-team.com/2013/11/25-awesome-tools-every-developer-should-have/>25 awesome tools every developer should have</a>
   * AnyConnect virtual private network
   * Aquamacs-Emacs-2.4.dmg
   * Emacs text editor
