@@ -67,6 +67,7 @@ brew install unison
 brew install xclip
 
 ## Language-Related
+brew install chruby
 brew install clojure
 brew install closure-compiler
 brew install cpansearch
