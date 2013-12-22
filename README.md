@@ -2,7 +2,7 @@
 
 These are our team's ad-hoc notes for setting up a typical Mac OSX developer laptop. YMMV.
 
-Our notes are primarily for OSX 10.7 a.k.a. Lion.
+Our notes are primarily for OSX 10.9 a.k.a. Mavericks.
 
 
 ## Start
