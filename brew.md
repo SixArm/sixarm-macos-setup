@@ -102,9 +102,9 @@ To fix this, we create a GitHub API token at https://github.com/settings/applica
   
      export HOMEBREW_GITHUB_API_TOKEN=12334567890abcdef
 
-Joel's personal one is here:
+We keep the key here:
 
-    ~/keys/jph/github/personal-access-tokens/brew.gpg
+    ~/keys/github/personal-access-tokens/brew.gpg
     
     
 
