@@ -8,6 +8,7 @@ brew install libxslt
 ## Fundamental
 brew install automake
 brew install coreutils
+brew install gnu-sed --default-names
 brew install gpg
 brew install ncurses
 brew install openssh
@@ -162,7 +163,7 @@ brew install gnu-barcode
 brew install gnu-getopt
 brew install gnu-indent
 brew install gnu-prolog
-brew install gnu-sed
+brew install gnu-sed --default-names
 brew install gnu-shogi
 brew install gnu-smalltalk
 brew install gnu-tar
