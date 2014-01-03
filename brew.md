@@ -84,4 +84,27 @@ Fix warnings, for example:
     Experimental support for using Xcode with the "Command Line Tools".
 
 
+## GitHub API Token
+
+When we do a lot with brew, we hit a GitHub rate limit.
+
+To fix this, we create a GitHub API token at https://github.com/settings/applications
+
+  * Tap "Personal Access Tokens"
+
+  * Tap "Create New Token"
+  
+  * Name it, e.g. "brew"
+  
+  * The result will be a long hex string e.g. <code>12334567890abcdef</code>
+  
+  * Add it to our personal environment <code>~/.environment</code> file:
+  
+     export HOMEBREW_GITHUB_API_TOKEN=12334567890abcdef
+
+Joel's personal one is here:
+
+    ~/keys/jph/github/personal-access-tokens/brew.gpg
+    
+    
 
