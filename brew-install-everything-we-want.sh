@@ -52,6 +52,7 @@ brew install emacs --cocoa --use-git-head --HEAD && curl -L http://git.io/epre |
 brew install vim
 
 ## Tools
+brew link autoconf automake && brew install ag
 brew install jq
 brew install graphicsmagick
 brew install graphviz
