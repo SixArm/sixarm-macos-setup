@@ -37,6 +37,7 @@ Good for developers:
   * jruby-bin-*
   * <a href="http://qt-project.org">Qt</a> cross platform framework
   * <a href="http://www.jetbrains.com/ruby/">RubyMine</a>
+  * <a href="http://www.rubymotion.com">RubyMotion</a> (<a href="http://t.co/PjqUbXQL4Q">download</a>)
   * <a href="http://www.soapui.org">SoapUI testing tool</a>
   * Sencha/ext-*.*.*-commercial.zip
   * Sencha/sencha-touch-*-commercial.zip
