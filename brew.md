@@ -57,8 +57,8 @@ I got a "missing path" error and some options to correct it, so I ran this:
 
 Brew install:
 
-   brew install zsh
-   ... for a complete list of what we use, see brew-install.txt ...   
+    brew install zsh
+    ... for a complete list of what we use, see brew-install.txt ...   
     echo ack apple-gcc42 colordiff ctags curl emacs geoip git gpg hg imagemagick libmagic \
       libmemcached libxml2 libxslt lzo meld memcached most mysql nginx pcre postgresql \
       rbenv readline redis rename ruby ruby-build sphinx sqlite tomcat v8 wget zsh \
