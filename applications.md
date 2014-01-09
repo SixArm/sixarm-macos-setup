@@ -11,6 +11,7 @@ Good for everyone:
   * <a href="http://justgetflux.com">F.lux</a> screen color adjuster
   * <a href="https://www.google.com/intl/en/chrome/browser/welcome.html">Google Chrome</a> web browser and add ons:
     * <a href="http://www.google.com/hangouts/">Google Hangouts</a>
+  * <a href="http://bjango.com/mac/istatmenus/">iStat Menus for system monitoring</a>
   * <a href="http://java.com/en/">Java</a> runtime
   * <a href="http://libreoffice.org">LibreOffice</a> for writing, spreadsheets, etc.
   * <a href="http://skype.com">Skype</a> instant messenger and video calling
