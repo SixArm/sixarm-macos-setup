@@ -9,10 +9,24 @@ Apple menu > System Preferences
 
 ## For OSX 10.9
 
-General icon 
+General:
   * Recent items: (set to max)
   * Use LCD Font smoothing when available: check
 
+Desktop & Screen Saver:
+  * Desktop
+    * Solid Colors: choose any dark gray
+    * Translucent menu bar: uncheck
+  * Screen Saver
+    * Screen Saver: Flurry
+    * Start after: 10 Minutes
+
+Dock:
+  * Check all
+
+Mission Control:
+  * N/A
+  
 Language & Region (icon)
   * Time format: 24-Hour Time
   * Advanced (button)
@@ -21,9 +35,9 @@ Language & Region (icon)
     * Times (tab)
       * Change to military time: (00-23):(00):(00) PST
 
-Dock (icon) 
-  * Automatically hide and show the Dock (check)
-
+Security & Privacy:
+  * Turn on File Vault
+  
 Keyboard (icon)
   * Keyboard (tab)
     * Key repeat: fast
