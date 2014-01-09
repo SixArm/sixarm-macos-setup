@@ -1,3 +1,11 @@
+###
+# Before we begin:
+#
+#   * Install XCode
+#   * Install XQuartz: https://xquartz.macosforge.org
+#
+###
+
 ## Lib
 brew install libevent
 brew install libmagic
