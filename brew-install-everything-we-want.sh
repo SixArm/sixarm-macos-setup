@@ -109,7 +109,7 @@ brew install mongodb
 brew install postgresql
 brew install redis
 brew install riak
-brew install sphinx
+brew install mysql && brew install postgresql && brew install sphinx
 brew install sqlite && brew link sqlite
 
 ## Server-Related
