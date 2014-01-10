@@ -77,7 +77,6 @@ brew install unison
 brew install xclip
 
 ## Language-Related
-brew install chruby
 brew install clojure
 brew install closure-compiler
 brew install cpansearch
@@ -85,7 +84,6 @@ brew install elixir
 brew install erlang
 brew install go
 brew install go-gui
-brew install jruby
 brew install js
 brew install leiningen
 brew install maven
@@ -94,14 +92,20 @@ brew install pcre
 brew install python
 brew install python3
 brew install r
+brew install scala
+brew install v8
+# Ruby
+brew install chruby  
+brew install jruby
 brew install ruby
+brew install ruby-install
 brew install rubinius
 brew install ruby-build
 brew install rbenv
-brew install scala
-brew install v8
+
 
 ## Database-Related
+brew install cassandra
 brew install couchdb
 brew install hadoop
 brew install mysql
