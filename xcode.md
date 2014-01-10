@@ -1,19 +1,29 @@
 # XCode
 
+Get it:
+
 1. Launch Apple app store.
 2. Install Xcode.
 
-To set it up:
+Setup:
 
 1. Click the Launchpad dock icon (the silver rocket ship)
 2. Choose Xcode. It will install some pieces.
 
 
-## Command Line Tools
+## Setup
 
 Start:
 
-  * Xcode menu > Preferences menu item > Downloads icon 
+  * Xcode menu > Preferences menu item 
+  
+### Accounts icon
+
+  * Tap the "Accounts" icon.
+  * 2. Add your Apple id.
+
+
+### Downloads icon 
 
 Components tab > install the current versions of these, plus whatever else we want:
 
