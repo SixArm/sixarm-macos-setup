@@ -87,4 +87,4 @@ Git config:
 
 Skip the Spotlight search index on these folders:
 
-  * <a ref=spotlight_exclude_folder_list.txt>spotlight_exclude_folder_list.txt</a>
+  * <a href=spotlight_exclude_folder_list.txt>spotlight_exclude_folder_list.txt</a>
