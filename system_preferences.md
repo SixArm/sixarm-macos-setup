@@ -38,6 +38,11 @@ Language & Region (icon)
 Security & Privacy:
   * Turn on File Vault
   
+Spotlight:
+  * Privacy: Prevent Spotlight from searching these locations
+    * /Users/me/Library/Application Support/Firefox
+    * /Users/me/Library/Application Support/Google
+
 Keyboard (icon)
   * Keyboard (tab)
     * Key repeat: fast
