@@ -83,3 +83,8 @@ Git config:
     git config --global user.name "Your Full Name"
     git config --global user.email "you@example.com"
 
+## Spotlight
+
+Skip the Spotlight search index on these folders:
+
+  * <a ref=spotlight_exclude_folder_list.txt>spotlight_exclude_folder_list.txt</a>
