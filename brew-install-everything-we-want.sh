@@ -33,6 +33,7 @@ brew install zsh
 ## Fetchers
 brew install curl
 brew install wget
+brew install unrar
 
 ## Version Control
 brew install git
