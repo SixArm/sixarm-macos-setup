@@ -31,9 +31,11 @@ Good for developers:
   * <a href="http://www.jetbrains.com/ruby/">RubyMine</a>
   * <a href="http://www.rubymotion.com">RubyMotion</a> (<a href="http://t.co/PjqUbXQL4Q">download</a>)
   * <a href="http://www.soapui.org">SoapUI testing tool</a>
+  * <a href="http://www.sourcetreeapp.com/">SourceTree</a> Git GUI
   * Vagrant-*.*.*.dmg
   * <a href="https://www.virtualbox.org/">VirtualBox</a>
     * <a href="http://virtualboxes.org/images/ubuntu">Ubuntu</a> image
+ 
 
 Coding:
 
