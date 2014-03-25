@@ -56,8 +56,8 @@ brew install sqlite && brew link sqlite && brew install subversion
 
 ## Editing-Related
 brew install aspell --with-lang=en
-sudo rm /usr/bin/emacs && 
-sudo rm -rf /usr/share/emacs && \
+sudo rm /usr/bin/emacs &&
+sudo rm -rf /usr/share/emacs &&
 brew install emacs --cocoa --use-git-head --HEAD && curl -L http://git.io/epre | sh
 brew install vim
 
