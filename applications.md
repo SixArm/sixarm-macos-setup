@@ -18,7 +18,7 @@ Good for everyone:
   * <a href="http://www.transmissionbt.com/">Transmission</a> bittorrent
   * <a href="http://www.videolan.org/vlc/index.html">VLC</a> media player
   * <a href="http://sublimetext.com">Sublime</a> text editor
-
+  * <a href="http://www.teamviewer.com/">TeamViewer</a> remote collaboration</a>
 
 Good for developers:
 
