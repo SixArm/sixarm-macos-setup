@@ -32,8 +32,9 @@ brew install zsh
 
 ## Fetchers
 brew install curl
-brew install wget
+brew install httrack
 brew install unrar
+brew install wget
 
 ## Version Control
 brew install git
