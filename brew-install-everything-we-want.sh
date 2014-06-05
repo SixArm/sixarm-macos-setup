@@ -65,6 +65,7 @@ brew install vim
 ## Tools
 brew link autoconf automake && brew install ag
 brew install jq
+brew install gawk
 brew install graphicsmagick
 brew install graphviz
 brew install gnuplot
