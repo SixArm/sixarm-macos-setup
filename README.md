@@ -34,6 +34,7 @@ If we're getting the computer from another user, we can adjust ownership and per
 Unhide the Library folder:
 
   * Open a Finder window
+  * Open your home directory
   * Click the gear icon
   * Choose "Show View Options"
   * Check "Show Library Folder"
