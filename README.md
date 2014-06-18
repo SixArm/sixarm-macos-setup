@@ -58,7 +58,7 @@ Load:
 
   * <a href="xcode.md">xcode.md</a>: Xcode development tools</a>
   * <a href="brew.md">brew.md</a>: Brew Mac package manager</a>
-  * <a href=adium.md>adium.md</a>: Adium instant messenger settings</a>
+  * <a href="adium.md">adium.md</a>: Adium instant messenger settings</a>
 
 
 ## Database setup
