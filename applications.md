@@ -56,6 +56,7 @@ Coding:
 
   * XCode command line tools: <pre>xcode-select --install</a>
   * Brew package manager: <pre>ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"</a>
+  * IE & Windows for VirtualBox: <pre>curl -C - -O -L "https://www.modern.ie/vmdownload?platform=mac&virtPlatform=virtualbox&browserOS=IE11-Win8.1&parts=4&filename=VMBuild_20140402/VirtualBox/IE11_Win8.1/Mac/IE11.Win8.1.For.MacVirtualBox.part{1.sfx,2.rar,3.rar,4.rar}"</pre> 
 
 Coding files TBD:
 
