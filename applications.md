@@ -28,6 +28,7 @@ Good for developers:
   * <a href=http://x-team.com/2013/11/25-awesome-tools-every-developer-should-have/>25 awesome tools every developer should have</a>
   * <a href="http://www.gimp.org/">GIMP</a> image editor, similar to Adobe Photoshop
   * <a href="https://mac.github.com/">GitHub</a> version control
+  * <a href="https://www.hipchat.com/downloads">HipChat</a> team collaboration
   * <a href="http://www.iterm2.com">iTerm2</a> terminal for Unix shell commands
   * <a href="https://www.java.com/en/download/faq/java_mac.xml">Java</a>
   * <a href="http://qt-project.org">Qt</a> cross platform framework
