@@ -19,6 +19,7 @@ Good for everyone:
   * <a href="http://bjango.com/mac/istatmenus/">iStat Menus for system monitoring</a>
   * <a href="http://java.com/en/">Java</a> runtime
   * <a href="http://lastpass.com/">LastPass</a> password manager
+  * <a href="http://www.kiwix.org/wiki/Main_Page">Kiwix</a> Wikipedia offline viewer
   * <a href="https://www.openoffice.org/">OpenOffice</a> or <a href="http://libreoffice.org">LibreOffice</a> for writing, spreadsheets, etc. 
     * The installation may need: System Preferences > Security & Privacy > General > Open Anyway
   * <a href="http://skype.com">Skype</a> instant messenger and video calling
