@@ -201,6 +201,7 @@ brew install jpeg
 brew install lzo
 brew install memcached
 brew install scrypt
+brew install qt
 brew install tarsnap
 brew install thrift
 brew install valkyrie
@@ -898,7 +899,6 @@ brew install xapian
 # brew install qrupdate
 # brew install qscintilla2
 # brew install qstat
-# brew install qt
 # brew install qt-mobility
 # brew install quantlib
 # brew install quassel
