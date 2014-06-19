@@ -12,7 +12,7 @@ Good for everyone:
   * Google
     * <a href="https://www.google.com/intl/en/chrome/browser/welcome.html">Chrome</a> web browser
     * <a href="http://www.google.com/hangouts/">Hangouts</a> (<a href="https://www.google.com/tools/dlpage/hangoutplugin">download</a>)
-    * <a href="http://drive.google.com">Drive</a> (<a href="https://www.google.com/intl/en/drive/download/">download) file storage
+    * <a href="http://drive.google.com">Drive</a> (<a href="https://www.google.com/intl/en/drive/download/">download</a>) file storage
     * <a href="https://www.google.com/earth/">Earth</a>
       * Check all "Places" and "Layers"
       * Preferences >
