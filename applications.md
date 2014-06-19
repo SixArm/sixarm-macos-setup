@@ -14,7 +14,8 @@ Good for everyone:
   * <a href="http://bjango.com/mac/istatmenus/">iStat Menus for system monitoring</a>
   * <a href="http://java.com/en/">Java</a> runtime
   * <a href="http://lastpass.com/">LastPass</a> password manager
-  * <a href="https://www.openoffice.org/">OpenOffice</a> or <a href="http://libreoffice.org">LibreOffice</a> for writing, spreadsheets, etc.
+  * <a href="https://www.openoffice.org/">OpenOffice</a> or <a href="http://libreoffice.org">LibreOffice</a> for writing, spreadsheets, etc. 
+    * The installation may need: System Preferences > Security & Privacy > General > Open Anyway
   * <a href="http://skype.com">Skype</a> instant messenger and video calling
   * <a href="http://www.transmissionbt.com/">Transmission</a> bittorrent
   * <a href="http://www.videolan.org/vlc/index.html">VLC</a> media player
@@ -24,9 +25,8 @@ Good for everyone:
 Good for developers:
 
   * <a href=http://x-team.com/2013/11/25-awesome-tools-every-developer-should-have/>25 awesome tools every developer should have</a>
-  * AnyConnect virtual private network
   * <a href="http://www.gimp.org/">GIMP</a> image editor, similar to Adobe Photoshop
-  * iTerm2 terminal for Unix shell commands
+  * <a href="http://www.iterm2.com">iTerm2</a> terminal for Unix shell commands
   * <a href="https://www.java.com/en/download/faq/java_mac.xml">Java</a>
   * <a href="http://qt-project.org">Qt</a> cross platform framework
   * <a href="http://www.jetbrains.com/ruby/">RubyMine</a>
@@ -37,11 +37,13 @@ Good for developers:
   * <a href="https://www.virtualbox.org/">VirtualBox</a>
     * <a href="http://virtualboxes.org/images/ubuntu">Ubuntu</a> image
 
-
 Coding:
 
   * XCode command line tools: <pre>xcode-select --install</a>
   * Brew package manager: <pre>ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"</a>
+
+Coding files TBD:
+
   * jquery-*.min
   * jquery-ui-*
   * jquery-ui-themes-*.zip
