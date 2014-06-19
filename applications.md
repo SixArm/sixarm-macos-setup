@@ -43,6 +43,7 @@ Good for developers:
   * Vagrant-*.*.*.dmg
   * <a href="https://www.virtualbox.org/">VirtualBox</a>
     * <a href="http://virtualboxes.org/images/ubuntu">Ubuntu</a> image
+  * <a href="https://xquartz.macosforge.org">XQuartz</a> X server for OSX
 
 Coding:
 
