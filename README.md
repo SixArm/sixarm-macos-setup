@@ -10,7 +10,7 @@ Our notes are primarily for OSX 10.9 a.k.a. Mavericks.
 
   * Apple menu > Software Update...
   * Register for Apple Id (if you don't already have one)
-  * <a href="https://github.com/stianeikeland/dotfiles/blob/master/bin/sanemacdefaults.sh">Sane Mac Defaults</a>
+  * <a href="defaults.sh">Defaults</a>
   * <a href="system_preferences.md">system_preferences.md</a>: System Preferences</a>
   * <a href="appstore.md">App Store apps</a>
   * <a href="applications.md">applications.md</a>: Applications that we download</a>
