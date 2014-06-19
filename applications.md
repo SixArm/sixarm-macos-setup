@@ -9,13 +9,16 @@ Good for everyone:
     * Adblock
     * FlashGot
   * <a href="http://justgetflux.com">F.lux</a> screen color adjuster
-  * <a href="https://www.google.com/intl/en/chrome/browser/welcome.html">Google Chrome</a> web browser and add ons:
-    * <a href="http://www.google.com/hangouts/">Google Hangouts</a> (<a href="https://www.google.com/tools/dlpage/hangoutplugin">download</a>)
-  * <a href="https://www.google.com/earth/">Google Earth</a>
-    * Check all "Places" and "Layers"
-    * Preferences > Terrain > Use High Quality Terrain
-    * Preferences > Cache > Double these
-    * Preferences > General > Use my Gmail account
+  * Google
+    * <a href="https://www.google.com/intl/en/chrome/browser/welcome.html">Chrome</a> web browser
+    * <a href="http://www.google.com/hangouts/">Hangouts</a> (<a href="https://www.google.com/tools/dlpage/hangoutplugin">download</a>)
+    * <a href="http://drive.google.com">Drive</a> (<a href="https://www.google.com/intl/en/drive/download/">download) file storage
+    * <a href="https://www.google.com/earth/">Earth</a>
+      * Check all "Places" and "Layers"
+      * Preferences >
+        * Terrain > Use High Quality Terrain
+        * Cache > Double these
+        * General > Use my Gmail account
   * <a href="http://bjango.com/mac/istatmenus/">iStat Menus for system monitoring</a>
   * <a href="http://java.com/en/">Java</a> runtime
   * <a href="http://lastpass.com/">LastPass</a> password manager
