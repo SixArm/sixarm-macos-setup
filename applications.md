@@ -10,7 +10,7 @@ Good for everyone:
     * FlashGot
   * <a href="http://justgetflux.com">F.lux</a> screen color adjuster
   * <a href="https://www.google.com/intl/en/chrome/browser/welcome.html">Google Chrome</a> web browser and add ons:
-    * <a href="http://www.google.com/hangouts/">Google Hangouts</a>
+    * <a href="http://www.google.com/hangouts/">Google Hangouts</a> (<a href="https://www.google.com/tools/dlpage/hangoutplugin">download</a>)
   * <a href="https://www.google.com/earth/">Google Earth</a>
     * Check all "Places" and "Layers"
     * Preferences > Terrain > Use High Quality Terrain
