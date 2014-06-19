@@ -27,7 +27,7 @@ Dock:
 Mission Control:
   * N/A
   
-Language & Region (icon)
+Language & Region:
   * Time format: 24-Hour Time
   * Advanced (button)
     * Dates (tab)
@@ -43,7 +43,7 @@ Spotlight:
     * /Users/me/Library/Application Support/Firefox
     * /Users/me/Library/Application Support/Google
 
-Keyboard (icon)
+Keyboard:
   * Keyboard (tab)
     * Key repeat: fast
     * Delay until repeat: short
@@ -54,26 +54,6 @@ Keyboard (icon)
   * Modifier keys... (button)
     * Change Caps Lock to Ctl
 
-  
-## For OSX 10.8
-
-Language & Text icon 
-  * Regions tab (Older systems may say Formats)
-    * Dates area 
-      * Customize button > Change to ISO standard dates: (2013)-(01)-(01)
-    * Times area
-      * Customize button > Change to military time: (00-23):(00):(00) PST
-
-General icon 
-  * Recent items: (set to max)
-
-Dock icon 
-  * Automatically hide and show the Dock (check)
-
-Keyboard icon
-  * Keyboard tab
-    * Key repeat: fast
-    * Delay until repeat: short
-  * Use all F1, F2 etc. keys as standard function keys (check)
-  * Modifier keys: change Caps Lock to Ctl
+App Store:
+  * Automatically download apps purchased on other Macs
 
