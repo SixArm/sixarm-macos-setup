@@ -20,7 +20,13 @@ Or install manually (deprecated):
     cd ruby-install-0.3.4/
     sudo make install
 
-Use:
+Install as root and in our preferred custom directory:
+
+    sudo su - 
+    mkdir -p /opt/ruby/2.1.2 
+    ruby-install -i /opt/ruby/2.1.2 ruby 2.1.2
+
+Or install as yourself and in the default directory:
 
     ruby-install ruby
     ruby-install jruby
