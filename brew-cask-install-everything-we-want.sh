@@ -1,6 +1,5 @@
 ## Cask
-brew tap phinze/cask
-brew install brew-cask
+brew install caskroom/cask/brew-cask
 
 ## Cask Applications
 brew cask install adium
