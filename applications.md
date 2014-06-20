@@ -37,6 +37,7 @@ Good for everyone:
 Good for developers:
 
   * <a href=http://x-team.com/2013/11/25-awesome-tools-every-developer-should-have/>25 awesome tools every developer should have</a>
+  * <a href="http://jetbrains.com">0xBDE</a> database editor (<a href="http://download.jetbrains.com/dbe/0xdbe-138.551.dmg">download</a>)
   * <a href="http://www.gimp.org/">GIMP</a> image editor, similar to Adobe Photoshop
   * <a href="https://mac.github.com/">GitHub</a> version control
   * <a href="https://www.hipchat.com/downloads">HipChat</a> team collaboration
