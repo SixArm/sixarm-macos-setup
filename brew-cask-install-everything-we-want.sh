@@ -94,6 +94,7 @@ brew cask install synergy
 brew cask install teamviewer
 brew cask install testflight
 brew cask install thunderbird
+brew cask install transmission
 brew cask install todoist
 brew cask install todos
 brew cask install unison
