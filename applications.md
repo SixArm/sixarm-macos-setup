@@ -4,7 +4,7 @@ Good for everyone:
 
   * <a href="http://adium.im">Adium</a> instant messenging
   * <a href="http://get.adobe.com/flashplayer/otherversions/">Adobe Flash</a> player
-  * <a href="http://www.code42.com/crashplan/">CrashPlan</a> backup service
+  * <a href="http://www.backblaze.com/">BackBlaze</a> backup service
   * <a href="http://dropbox.com">Dropbox</a> file sharing
   * <a href="http://firefox.com">Firefox</a> web browser and add ons:
     * Adblock
