@@ -52,7 +52,7 @@ Good for developers:
   * Vagrant-*.*.*.dmg
   * <a href="https://www.virtualbox.org/">VirtualBox</a>
     * Also download the Oracle VM VirtualBox Extension Pack
-    * <a href="http://virtualboxes.org/images/ubuntu">Ubuntu</a> images
+    * <a href="http://ubuntu.com">Ubuntu</a> ISO images
     * <a href="http://modern.ie">Modern.ie</a> OVA images for Internet Explorer and Microsoft Windows
   * <a href="https://xquartz.macosforge.org">XQuartz</a> X server for OSX
 
