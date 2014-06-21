@@ -51,7 +51,9 @@ Good for developers:
   * <a href="http://www.sourcetreeapp.com/">SourceTree</a> Git GUI
   * Vagrant-*.*.*.dmg
   * <a href="https://www.virtualbox.org/">VirtualBox</a>
-    * <a href="http://virtualboxes.org/images/ubuntu">Ubuntu</a> image
+    * Also download the Oracle VM VirtualBox Extension Pack
+    * <a href="http://virtualboxes.org/images/ubuntu">Ubuntu</a> images
+    * <a href="http://modern.ie">Modern.ie</a> OVA images for Internet Explorer and Microsoft Windows
   * <a href="https://xquartz.macosforge.org">XQuartz</a> X server for OSX
 
 Coding:
