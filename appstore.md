@@ -2,6 +2,7 @@
 
 Good for everyone and free:
 
+  * Alfred: productivity using shortcuts and launchers
   * Cloud: simple file sharing by sending a link
   * FaceTime: video chatting
   * iPhoto: mananging photos
