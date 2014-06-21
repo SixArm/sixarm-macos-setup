@@ -29,6 +29,7 @@ Good for everyone:
     * The installation may need: System Preferences > Security & Privacy > General > Open Anyway
   * <a href="http://www.microsoft.com/getsilverlight/Get-Started/Install/Default.aspx">Silverlight</a> media player plugin
   * <a href="http://skype.com">Skype</a> instant messenger and video calling
+  * <a href="http://www.macupdate.com/app/mac/14352/spark">Spark</a> hotkey utility
   * <a href="http://sublimetext.com">Sublime</a> text editor
   * <a href="http://www.teamviewer.com/">TeamViewer</a> remote collaboration</a>
   * <a href="http://www.transmissionbt.com/">Transmission</a> bittorrent
