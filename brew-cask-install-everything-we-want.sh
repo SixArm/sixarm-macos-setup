@@ -1,6 +1,10 @@
 ## Cask
 brew install caskroom/cask/brew-cask
 
+# May require your password
+brew cask install adobe-air
+brew cask install electric-sheep
+
 ## Cask Applications
 brew cask install adium
 brew cask install adobe-air
