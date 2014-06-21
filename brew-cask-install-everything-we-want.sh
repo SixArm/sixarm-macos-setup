@@ -1,7 +1,11 @@
 ## Cask
 brew install caskroom/cask/brew-cask
 
-# May require your password
+## Install items first that are most important to us
+brew cask install firefox
+brew cask install iterm2
+
+## Install items early on that require a password
 brew cask install adobe-air
 brew cask install electric-sheep
 
