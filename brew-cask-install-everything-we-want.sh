@@ -26,6 +26,7 @@ brew cask install calibre
 brew cask install ccleaner
 brew cask install cheatsheet
 brew cask install chromecast
+brew cask install dash
 brew cask install doxygen
 brew cask install dropbox
 brew cask install eclipse-ide
@@ -34,6 +35,7 @@ brew cask install electric-sheep
 brew cask install emacs
 brew cask install evernote
 brew cask install filezilla
+brew cask install firefox
 brew cask install flash
 brew cask install flux
 brew cask install ganttproject
@@ -77,13 +79,15 @@ brew cask install rdio
 brew cask install rescuetime
 brew cask install rubymine
 brew cask install screenhero
-brew cask install sleep-monitor
-brew cask install spotify
 brew cask install silverlight
+brew cask install skitch
 brew cask install skype
+brew cask install sleep-monitor
+brew cask install sourcetree
 brew cask install spotify
 brew cask install sublime-text
 brew cask install synergy
+brew cask install teamviewer
 brew cask install testflight
 brew cask install thunderbird
 brew cask install todoist
