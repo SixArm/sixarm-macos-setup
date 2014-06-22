@@ -88,7 +88,7 @@ brew cask fetch   node
 brew cask install omnifocus
 brew cask install omnigraffle
 brew cask install openoffice
-brew cask install pandoc
+brew cask fetch   pandoc
 brew cask install pandora-one
 brew cask install postgres
 brew cask install prey
@@ -131,6 +131,7 @@ brew cask install heroku-toolbelt
 brew cask install inky
 brew cask install java
 brew cask install node
+brew cask install pandoc
 brew cask install r
 brew cask install unity-web-player
 
