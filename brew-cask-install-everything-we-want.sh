@@ -1,15 +1,26 @@
-## Cask
+### Use brew cask to install typical Mac applications.
+
+# Install Cask.
+# We must already have installed brew.
+#
 brew install caskroom/cask/brew-cask
 
-## Install items first that are most important to us
+# Install applicaitons that are most important to us,
+# so we can start working on the machine if we want.
+#
 brew cask install firefox
 brew cask install iterm2
 
-## Install items early on that require a password
+# Install applications that require a password,
+# so we can type it in as we're working.
+#
 brew cask install adobe-air
 brew cask install electric-sheep
+brew cask install google-hangouts
 
-## Cask Applications
+# Install all applications alphabetically.
+# We include the applications above to be complete.
+#
 brew cask install adium
 brew cask install adobe-air
 brew cask install adobe-reader
