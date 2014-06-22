@@ -16,7 +16,8 @@ brew cask install firefox
 # require a password, such as google-hangouts;
 # for those apps, see the next list after this.
 #
-brew cask install adiumbrew cask install adobe-reader
+brew cask install adium
+brew cask install adobe-reader
 brew cask install adventure
 brew cask install alfred
 brew cask install amazon-cloud-drive
