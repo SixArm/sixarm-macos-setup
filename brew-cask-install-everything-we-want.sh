@@ -84,7 +84,7 @@ brew cask install macvim
 brew cask install mysqlworkbench
 brew cask install netbeans
 brew cask install nmap
-brew cask install node
+brew cask fetch   node
 brew cask install omnifocus
 brew cask install omnigraffle
 brew cask install openoffice
@@ -130,6 +130,7 @@ brew cask install google-hangouts
 brew cask install heroku-toolbelt
 brew cask install inky
 brew cask install java
+brew cask install node
 brew cask install r
 brew cask install unity-web-player
 
