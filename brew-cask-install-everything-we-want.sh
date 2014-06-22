@@ -74,7 +74,7 @@ brew cask install grooveshark
 brew cask install harvest
 brew cask fetch   heroku-toolbelt
 brew cask install hipchat
-brew cask install inky
+brew cask fetch   inky
 brew cask install iterm2
 brew cask fetch   java
 brew cask install joinme
@@ -128,6 +128,7 @@ brew cask install adobe-air
 brew cask install electric-sheep
 brew cask install google-hangouts
 brew cask install heroku-toolbelt
+brew cask install inky
 brew cask install java
 brew cask install unity-web-player
 
