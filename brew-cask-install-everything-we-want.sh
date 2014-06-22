@@ -93,7 +93,7 @@ brew cask install pandora-one
 brew cask install postgres
 brew cask install prey
 brew cask install prezi
-brew cask install r
+brew cask fetch   r
 brew cask install rdio
 brew cask install rescuetime
 brew cask install rubymine
@@ -130,6 +130,7 @@ brew cask install google-hangouts
 brew cask install heroku-toolbelt
 brew cask install inky
 brew cask install java
+brew cask fetch   r
 brew cask install unity-web-player
 
 ##
