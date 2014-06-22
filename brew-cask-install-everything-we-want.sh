@@ -10,17 +10,19 @@ brew install caskroom/cask/brew-cask
 
 # Install applicaitons that are most important to us,
 # so we can start working on the machine if we want.
+# We have these applications list in the next section too,
+# for copmleteness, so fee free to edit these.
 #
 brew cask install iterm2
 brew cask install firefox
 brew cask install sublime-text
 
-# Install  applications alphabetically.
-# This list does *not* have the applications that
-# require a password, such as google-hangouts;
-# for those apps, see the next list after this.
+# Install applications alphabetically.
+# If an application requires a password to install,
+# then we use fetch, then install in the next section.
 #
 brew cask install adium
+brew cask fetch   adobe-air
 brew cask install adobe-reader
 brew cask install adventure
 brew cask install alfred
@@ -48,6 +50,7 @@ brew cask install doxygen
 brew cask install dropbox
 brew cask install eclipse-ide
 brew cask install eclipse-platform
+brew cask fetch   electric-sheep
 brew cask install emacs
 brew cask install evernote
 brew cask install filezilla
@@ -61,6 +64,7 @@ brew cask install gitx
 brew cask install google-chrome
 brew cask install google-drive
 brew cask install google-earth
+brew cask fetch   google-hangouts
 brew cask install google-music
 brew cask install google-notifier
 brew cask install google-quick-search-box
@@ -68,11 +72,11 @@ brew cask install google-refine
 brew cask install google-web-designer
 brew cask install grooveshark
 brew cask install harvest
-brew cask install heroku-toolbelt
+brew cask fetch   heroku-toolbelt
 brew cask install hipchat
 brew cask install inky
 brew cask install iterm2
-brew cask install java
+brew cask fetch   java
 brew cask install joinme
 brew cask install kindle
 brew cask install launchy
@@ -108,6 +112,7 @@ brew cask install thunderbird
 brew cask install transmission
 brew cask install todoist
 brew cask install todos
+brew cask fetch   unity-web-player
 brew cask install unison
 brew cask install unity3d
 brew cask install wireshark
@@ -116,14 +121,14 @@ brew cask install virtualbox
 brew cask install vlc
 brew cask install zoomus
 
-# Install applications that require a password.
-# We do these after all the automatic apps are installed,
-# because we want to automate as much setup as possible. 
+# Last step: install applications that require a password.
+# We have already done the 'fetch' command for all these.
 #
 brew cask install adobe-air
 brew cask install electric-sheep
 brew cask install google-hangouts
 brew cask install heroku-toolbelt
+brew cask install java
 brew cask install unity-web-player
 
 ##
@@ -140,7 +145,7 @@ brew cask install unity-web-player
 #
 #   * System: App Store, Apple Configurator, Launchpad, Mission Control, System Preferences
 #   * Calculator, Calendar, Chess, Contacts, Dashboard, Dictionary, DVD Player, FaceTime, Game Center,
-#     Mail, Messages, Notes,  Photo Booth, Preview, QuickTime Player, Reminders, Safari, TextEdit
+#     Mail, Maps, Messages, Notes,  Photo Booth, Preview, QuickTime Player, Reminders, Safari, TextEdit
 #   * iApps: iBooks, iCloud, iMovie, iPhoto, iTunes, iWork
 #   * Creativity: GarageBand, Keynote, Numbers, Pages 
 #
@@ -159,7 +164,6 @@ brew cask install unity-web-player
 #   * Garmin *
 #   * Image Capture.app
 #   * MailTab for Gmail.app
-#   * Maps.app
 #   * Memory Clean.app
 #   * MenuBar Stats.app
 #   * Microsoft Remote Desktop.app
