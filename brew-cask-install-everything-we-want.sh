@@ -105,7 +105,6 @@ brew cask install transmission
 brew cask install todoist
 brew cask install todos
 brew cask install unison
-brew cask install unity-web-player
 brew cask install unity3d
 brew cask install wireshark
 brew cask install vagrant
@@ -121,5 +120,6 @@ brew cask install adobe-air
 brew cask install electric-sheep
 brew cask install google-hangouts
 brew cask install heroku-toolbelt
+brew cask install unity-web-player
 
 
