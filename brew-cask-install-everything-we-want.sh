@@ -8,22 +8,15 @@ brew install caskroom/cask/brew-cask
 # Install applicaitons that are most important to us,
 # so we can start working on the machine if we want.
 #
-brew cask install firefox
 brew cask install iterm2
+brew cask install firefox
 
-# Install applications that require a password,
-# so we can type it in as we're working.
+# Install  applications alphabetically.
+# This list does *not* have the applications that
+# require a password, such as google-hangouts;
+# for those apps, see the next list after this.
 #
-brew cask install adobe-air
-brew cask install electric-sheep
-brew cask install google-hangouts
-
-# Install all applications alphabetically.
-# We include the applications above to be complete.
-#
-brew cask install adium
-brew cask install adobe-air
-brew cask install adobe-reader
+brew cask install adiumbrew cask install adobe-reader
 brew cask install adventure
 brew cask install alfred
 brew cask install amazon-cloud-drive
@@ -50,7 +43,6 @@ brew cask install doxygen
 brew cask install dropbox
 brew cask install eclipse-ide
 brew cask install eclipse-platform
-brew cask install electric-sheep
 brew cask install emacs
 brew cask install evernote
 brew cask install filezilla
@@ -64,7 +56,6 @@ brew cask install gitx
 brew cask install google-chrome
 brew cask install google-drive
 brew cask install google-earth
-brew cask install google-hangouts
 brew cask install google-music
 brew cask install google-notifier
 brew cask install google-quick-search-box
@@ -120,3 +111,14 @@ brew cask install vagrant
 brew cask install virtualbox
 brew cask install vlc
 brew cask install zoomus
+
+# Install applications that require a password.
+# We do these after all the automatic apps are installed,
+# because we want to automate as much setup as possible. 
+#
+brew cask install adobe-air
+brew cask install electric-sheep
+brew cask install google-hangouts
+brew cask install heroku-toolbelt
+
+
