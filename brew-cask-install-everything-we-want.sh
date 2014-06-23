@@ -114,7 +114,7 @@ brew cask install todoist
 brew cask install todos
 brew cask fetch   unity-web-player
 brew cask install unison
-brew cask install unity3d
+brew cask fetch   unity3d
 brew cask install wireshark
 brew cask install vagrant
 brew cask install virtualbox
@@ -135,6 +135,7 @@ brew cask install pandoc
 brew cask install r
 brew cask install teamviewer
 brew cask install unity-web-player
+brew cask install unity3d
 
 ##
 # Applications we want that are not available via cask:
