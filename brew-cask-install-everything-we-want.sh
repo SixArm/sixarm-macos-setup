@@ -82,7 +82,7 @@ brew cask install kindle
 brew cask install launchy
 brew cask install macvim
 brew cask install mysqlworkbench
-brew cask install netbeans
+brew cask fetch   netbeans
 brew cask install nmap
 brew cask fetch   node
 brew cask install omnifocus
@@ -130,6 +130,7 @@ brew cask install google-hangouts
 brew cask install heroku-toolbelt
 brew cask install inky
 brew cask install java
+brew cask install netbeans
 brew cask install node
 brew cask install pandoc
 brew cask install r
