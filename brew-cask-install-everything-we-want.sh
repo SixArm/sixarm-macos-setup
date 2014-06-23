@@ -119,7 +119,7 @@ brew cask install wireshark
 brew cask install vagrant
 brew cask install virtualbox
 brew cask install vlc
-brew cask install zoomus
+brew cask fetch   zoomus
 
 # Last step: install applications that require a password.
 # We have already done the 'fetch' command for all these.
@@ -136,6 +136,7 @@ brew cask install r
 brew cask install teamviewer
 brew cask install unity-web-player
 brew cask install unity3d
+brew cask install zoomus
 
 ##
 # Applications we want that are not available via cask:
