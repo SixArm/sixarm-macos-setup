@@ -106,7 +106,7 @@ brew cask install sourcetree
 brew cask install spotify
 brew cask install sublime-text
 brew cask install synergy
-brew cask install teamviewer
+brew cask fetch   teamviewer
 brew cask install testflight
 brew cask install thunderbird
 brew cask install transmission
@@ -133,6 +133,7 @@ brew cask install java
 brew cask install node
 brew cask install pandoc
 brew cask install r
+brew cask install teamviewer
 brew cask install unity-web-player
 
 ##
