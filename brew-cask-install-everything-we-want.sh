@@ -116,7 +116,7 @@ brew cask fetch   unity-web-player
 brew cask install unison
 brew cask fetch   unity3d
 brew cask fetch   wireshark
-brew cask install vagrant
+brew cask fetch   vagrant
 brew cask install virtualbox
 brew cask install vlc
 brew cask fetch   zoomus
@@ -137,6 +137,7 @@ brew cask install r
 brew cask install teamviewer
 brew cask install unity-web-player
 brew cask install unity3d
+brew cask install vagrant
 brew cask install wireshark
 brew cask install zoomus
 
