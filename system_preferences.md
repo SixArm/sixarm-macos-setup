@@ -57,3 +57,6 @@ Keyboard:
 App Store:
   * Automatically download apps purchased on other Macs
 
+Dictation & Speech:
+  * Dictation: on
+  * Use enhanced dictation: check (heads up this triggers a 780MB download)
