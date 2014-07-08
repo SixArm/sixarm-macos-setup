@@ -4,6 +4,7 @@ Good for everyone:
 
   * <a href="http://adium.im">Adium</a> instant messenging
   * <a href="http://get.adobe.com/flashplayer/otherversions/">Adobe Flash</a> player
+  * <a href="http://www.android.com/filetransfer/">Android file transfer</a> for Android phones
   * <a href="http://www.backblaze.com/">BackBlaze</a> backup service
   * <a href="http://dropbox.com">Dropbox</a> file sharing
   * <a href="http://firefox.com">Firefox</a> web browser and add ons:
