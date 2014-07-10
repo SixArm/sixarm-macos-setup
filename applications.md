@@ -54,8 +54,10 @@ Good for developers:
   * Vagrant-*.*.*.dmg
   * <a href="https://www.virtualbox.org/">VirtualBox</a>
     * Also download the Oracle VM VirtualBox Extension Pack
+    * Install "Guest Additions"
     * <a href="http://ubuntu.com">Ubuntu</a> ISO images
     * <a href="http://modern.ie">Modern.ie</a> OVA images for Internet Explorer and Microsoft Windows
+    * Change "Host Key" to right-clover: Preferences: Input (tab): Virtual Machine (tab): Host Key Combination
   * <a href="https://xquartz.macosforge.org">XQuartz</a> X server for OSX
 
 Coding:
