@@ -47,6 +47,7 @@ Good for developers:
   * <a href="https://www.java.com/en/download/faq/java_mac.xml">Java</a>
   * <a href="http://qt-project.org">Qt</a> cross platform framework
   * <a href="http://www.jetbrains.com/ruby/">RubyMine</a>
+    * Plugins: Markdown
   * <a href="http://www.rubymotion.com">RubyMotion</a> (<a href="http://t.co/PjqUbXQL4Q">download</a>)
   * <a href="http://www.soapui.org">SoapUI testing tool</a>
   * <a href="http://www.sourcetreeapp.com/">SourceTree</a> Git GUI
