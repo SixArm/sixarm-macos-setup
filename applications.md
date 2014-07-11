@@ -45,6 +45,7 @@ Good for developers:
   * <a href="https://www.hipchat.com/downloads">HipChat</a> team collaboration
   * <a href="http://www.iterm2.com">iTerm2</a> terminal for Unix shell commands
   * <a href="https://www.java.com/en/download/faq/java_mac.xml">Java</a>
+  * <a href="http://sourceforge.net/projects/meshlab">MeshLab</a> mesh processing system for 3D scanning and printing
   * <a href="http://qt-project.org">Qt</a> cross platform framework
   * <a href="http://www.jetbrains.com/ruby/">RubyMine</a>
     * Plugins: Markdown
