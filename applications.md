@@ -11,6 +11,7 @@ Good for everyone:
     * Adblock
     * FlashGot
   * <a href="http://justgetflux.com">F.lux</a> screen color adjuster
+  * <a href="http://gfx.io/">gfxCardStatus</a> menu bar app for MacBook Pro to show which apps use power-hungry graphics. 
   * Google
     * <a href="https://www.google.com/intl/en/chrome/browser/welcome.html">Chrome</a> web browser
     * <a href="http://www.google.com/hangouts/">Hangouts</a> (<a href="https://www.google.com/tools/dlpage/hangoutplugin">download</a>)
