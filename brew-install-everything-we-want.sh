@@ -18,6 +18,7 @@ brew install automake
 brew install coreutils
 brew install gnu-sed --default-names
 brew install gpg
+brew install most
 brew install openssh
 brew install openssl
 brew install readline
