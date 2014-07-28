@@ -80,6 +80,7 @@ brew install rename
 brew install salt
 brew install unison
 brew install xclip
+brew install xmstarlet
 
 ## Language-Related
 brew install clojure
