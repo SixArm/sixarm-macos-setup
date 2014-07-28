@@ -71,6 +71,7 @@ brew install graphicsmagick
 brew install graphviz
 brew install gnuplot
 brew install grep
+brew install html-xml-utils
 brew install lynx
 brew install meld
 brew install most
