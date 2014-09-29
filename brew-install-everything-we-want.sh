@@ -77,6 +77,7 @@ brew install meld
 brew install most
 brew install mutt
 brew install netcat
+brew install ncdu
 brew install rename
 brew install salt
 brew install unison
@@ -109,7 +110,6 @@ brew install ruby-install
 brew install rubinius
 brew install ruby-build
 brew install rbenv
-
 
 ## Database-Related
 brew install cassandra
