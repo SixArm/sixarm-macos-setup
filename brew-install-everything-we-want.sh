@@ -78,7 +78,7 @@ brew install most
 brew install mutt
 brew install netcat
 brew install ncdu
-brew install random-lines
+brew install randomize-lines
 brew install rename
 brew install salt
 brew install unison
