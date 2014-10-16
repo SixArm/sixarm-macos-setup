@@ -54,6 +54,9 @@ Keyboard:
   * Modifier keys... (button)
     * Change Caps Lock to Ctl
 
+Sound:
+  * Play feedback when volume is changed: uncheck
+
 App Store:
   * Automatically download apps purchased on other Macs
 
