@@ -23,7 +23,7 @@ brew cask install sublime-text
 #
 brew cask install adium
 brew cask fetch   adobe-air
-brew cask install adobe-reader
+brew cask fetch   adobe-reader
 brew cask install adventure
 brew cask install alfred
 brew cask install amazon-cloud-drive
@@ -82,8 +82,8 @@ brew cask install kindle
 brew cask install launchy
 brew cask install macvim
 brew cask install mysqlworkbench
-brew cask install netbeans
-brew cask install nmap
+brew cask fetch   netbeans
+brew cask fetch   nmap
 brew cask fetch   node
 brew cask install omnifocus
 brew cask install omnigraffle
@@ -91,7 +91,7 @@ brew cask install openoffice
 brew cask fetch   pandoc
 brew cask install pandora-one
 brew cask install postgres
-brew cask install prey
+brew cask fetch   prey
 brew cask install prezi
 brew cask fetch   r
 brew cask install rdio
@@ -115,7 +115,7 @@ brew cask install todos
 brew cask fetch   unity-web-player
 brew cask install unison
 brew cask fetch   unity3d
-brew cask install wireshark
+brew cask fetch   wireshark
 brew cask install vagrant
 brew cask install virtualbox
 brew cask install vlc
@@ -125,17 +125,22 @@ brew cask install zoomus
 # We have already done the 'fetch' command for all these.
 #
 brew cask install adobe-air
+brew cask install adobe-reader
 brew cask install electric-sheep
 brew cask install google-hangouts
 brew cask install heroku-toolbelt
 brew cask install inky
 brew cask install java
+brew cask install netbeans
+brew cask install nmap
 brew cask install node
 brew cask install pandoc
+brew cask install prey
 brew cask install r
 brew cask install teamviewer
 brew cask install unity-web-player
 brew cask install unity3d
+brew cask install wireshark
 
 ##
 # Applications we want that are not available via cask:
@@ -153,7 +158,7 @@ brew cask install unity3d
 #   * Calculator, Calendar, Chess, Contacts, Dashboard, Dictionary, DVD Player, FaceTime, Game Center,
 #     Mail, Maps, Messages, Notes,  Photo Booth, Preview, QuickTime Player, Reminders, Safari, TextEdit
 #   * iApps: iBooks, iCloud, iMovie, iPhoto, iTunes, iWork
-#   * Creativity: GarageBand, Keynote, Numbers, Pages 
+#   * Creativity: GarageBand, Keynote, Numbers, Pages
 #
 # Applications with origin TBD:
 #

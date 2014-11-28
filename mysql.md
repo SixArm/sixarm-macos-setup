@@ -1,4 +1,7 @@
-# MySQL on Lion
+# MySQL on OSX
+
+
+## Install
 
 MySQL has many options on Lion:
 
@@ -8,16 +11,9 @@ MySQL has many options on Lion:
   * port
   * brew
 
-We'll use brew.
+We prefer brew because it's easy.
 
-
-## Install
-
-See http://stackoverflow.com/questions/4359131/brew-install-mysql-on-mac-os
-
-See also http://www.frederico-araujo.com/2011/07/30/installing-rails-on-os-x-lion-with-homebrew-rvm-and-mysql/
-
-First uninstall earlier versions:
+  1. Uninstall earlier versions:
 
     brew remove mysql
     brew cleanup
@@ -26,16 +22,31 @@ First uninstall earlier versions:
     rm -rf /usr/local/var/mysql/
     rm /etc/my.cnf
 
-Install:
+  2. Install with secure options:
 
     brew install mysql
+    mysql_secure_installation
+
+  The secure options we want are:
+
+    Set root password? [Y/n] Y
+    Remove anonymous users? [Y/n] Y
+    Disallow root login remotely? [Y/n] Y
+    Remove test database and access to it? [Y/n] Y
+    Reload privilege tables now? [Y/n] Y
+
+Resources:
+
+  * See http://stackoverflow.com/questions/4359131/brew-install-mysql-on-mac-os
+
+  * See also http://www.frederico-araujo.com/2011/07/30/installing-rails-on-os-x-lion-with-homebrew-rvm-and-mysql/
+
+
+N.b. If you prefer to install as your current user:
+
     unset TMPDIR
     mysql_install_db --verbose --user=`whoami` --basedir="$(brew --prefix mysql)" --datadir=/usr/local/var/mysql --tmpdir=/tmp
     mysql.server
-
-Use the alternate security script:
-
-/usr/local/Cellar/mysql/5.5.10/bin/mysql_secure_installation
 
 
 ### brew output
@@ -60,11 +71,12 @@ To run as, for instance, user "mysql", you may need to `sudo`:
     sudo mysql_install_db ...options...
 
 
-## Start
+## Start & Stop
 
-Start mysqld manually with:
+To start and stop manually:
 
     mysql.server start
+    mysql.server stop
 
 
 ### Troubleshooting
@@ -113,7 +125,7 @@ To launch on startup if this is an upgrade and you already have the homebrew.mxc
 
 You may also need to edit the plist to use the correct "UserName".
 
-Summary: 
+Summary:
 
     /usr/local/Cellar/mysql/5.5.20: 6336 files, 221M, built in 3.5 minutes
 
