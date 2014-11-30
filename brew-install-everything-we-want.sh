@@ -38,7 +38,7 @@ brew install unrar
 brew install wget
 
 ## Version Control
-brew install git
+brew install cask
 brew install cvs
 brew install git
 brew install git
@@ -58,11 +58,14 @@ brew install sqlite && brew link sqlite && brew install subversion
 
 ## Editing-Related
 brew install aspell --with-lang=en
-brew install cask
-sudo rm /usr/bin/emacs &&
-sudo rm -rf /usr/share/emacs &&
-brew install emacs --cocoa --use-git-head --HEAD && curl -L http://git.io/epre | sh
+brew install emacs --cocoa --srgb --use-git-head --HEAD
 brew install vim
+
+## Editing-Related emacs adjustments
+sudo rm /usr/bin/emacs
+sudo rm -rf /usr/share/emacs
+ls -1 /usr/local/Cellar/emacs/*/bin/emacs | tail -1 | xargs -I{} sudo ln -sf "{}" /usr/bin/emacs
+#curl -L http://git.io/epre | sh
 
 ## Tools
 brew link autoconf automake && brew install ag
