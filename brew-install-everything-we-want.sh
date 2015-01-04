@@ -1,8 +1,18 @@
 ###
+# Brew install everything we want.
+#
 # Before we begin:
 #
 #   * Install XCode
 #   * Install XQuartz: https://xquartz.macosforge.org
+#
+# To find what a given package does:
+#
+#    http://brewformulas.org/
+# 
+# For example package "foo" is:
+#
+#    http://brewformulas.org/foo
 #
 ###
 
@@ -162,6 +172,16 @@ brew install fontconfig
  
 # FreeType is a freely available software library to render fonts.
 brew install freetype
+
+## Image-Related
+
+brew install libgphoto2
+brew install libpng   
+brew install libtiff
+
+# Jasper command line transcoder between JPEG2000 and other formats.
+brew install jasper
+
 
 ## Uncategorized
 brew install abook
