@@ -155,6 +155,14 @@ brew install ffmpegthumbnailer
 brew install imagemagick
 brew install theora
 
+## Font-Related
+
+# Fontconfig is a library for configuring and customizing font access.
+brew install fontconfig
+ 
+# FreeType is a freely available software library to render fonts.
+brew install freetype
+
 ## Uncategorized
 brew install abook
 brew install ack
