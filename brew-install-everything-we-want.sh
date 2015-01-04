@@ -98,9 +98,6 @@ brew install git
 # TBD
 brew install git-cola
 
-# TBD
-brew install git-diffall
-
 # Git extensions to provide high-level operations for Git Flow branching model.
 brew install git-flow
 
@@ -111,22 +108,13 @@ brew install git-ftp
 brew install git-gerrit
 
 # TBD
-brew install git-hg
-
-# TBD
 brew install git-multipush
 
 # TBD
 brew install git-now
 
 # TBD
-brew install git-subtree
-
-# TBD
 brew install git-url-sub
-
-# TBD
-brew install git-utils
 
 # Mercurial version control system.
 brew install hg
@@ -179,9 +167,6 @@ brew install graphviz
 brew install gnuplot
 
 # TBD
-brew install grep
-
-# TBD
 brew install html-xml-utils
 
 # TBD
@@ -216,16 +201,14 @@ brew install unison
 
 # xclip is a command line interface to the X11 clipboard.
 brew install xclip
+
+# TBD
 brew install xmstarlet
 
 ## Language-Related
 
-# Closure programming language; compare `lisp`, `java`.
-brew install clojure
+# Closure programming language compiler; compare `lisp`, `java`.
 brew install closure-compiler
-
-# CPAN search for perl modules
-brew install cpansearch
 
 # Elixer programming language built on top of the Erlang VM.
 brew install elixir
@@ -235,22 +218,12 @@ brew install erlang
 
 # Go programming language by Google; compare `C`.
 brew install go
-brew install go-gui
-
-# JavaScript programming language.
-brew install js
 
 # Leiningen automates Clojure projects.
 brew install leiningen
 
 # Apache Maven is a software project management and comprehension tool.
 brew install maven
-
-# Perl programming language, esp. for systems administration.
-brew install perl
-
-# Perl-Compatible Regular Expressions pattern matching tools.
-brew install pcre
 
 # Python programming language, esp. for systems scripting.
 brew install python
@@ -262,8 +235,27 @@ brew install r
 # Scala programming language, that runs on top of the JVM.
 brew install scala
 
+## JavaScript
+
+# Node.js is a JavaScript platform for building fast, scalable network app.
+brew install node
+
+# PhantomJS is a headless WebKit scriptable with a JavaScript API.
+brew install phantomjs
+
 # V8 JavaScript Engine.
 brew install v8
+
+## Perl
+
+# Perl programming language, esp. for systems administration.
+brew install perl
+
+# Perl-Compatible Regular Expressions pattern matching tools.
+brew install pcre
+
+# CPAN search for perl modules
+brew install cpansearch
 
 ## Ruby
 
@@ -315,9 +307,6 @@ brew install sqlite && brew link sqlite
 
 # TBD
 brew install glassfish
-
-# TBD
-brew install httpd
 
 # Jetty provides a Java web server and javax.servlet container.
 brew install jetty
@@ -430,6 +419,8 @@ brew install ical-buddy
 brew install jmeter
 brew install jpeg
 brew install lzo
+brew install rarian
+brew install pixman
 
 # libMemcached is a client library and tools for the memcached server.
 brew install libmemcached
