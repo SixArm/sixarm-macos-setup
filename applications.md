@@ -4,12 +4,14 @@ Good for everyone:
 
   * <a href="http://adium.im">Adium</a> instant messenging
   * <a href="http://get.adobe.com/flashplayer/otherversions/">Adobe Flash</a> player
+  * <a href="http://www.android.com/filetransfer/">Android file transfer</a> for Android phones
   * <a href="http://www.backblaze.com/">BackBlaze</a> backup service
   * <a href="http://dropbox.com">Dropbox</a> file sharing
   * <a href="http://firefox.com">Firefox</a> web browser and add ons:
     * Adblock
     * FlashGot
   * <a href="http://justgetflux.com">F.lux</a> screen color adjuster
+  * <a href="http://gfx.io/">gfxCardStatus</a> menu bar app for MacBook Pro to show which apps use power-hungry graphics. 
   * Google
     * <a href="https://www.google.com/intl/en/chrome/browser/welcome.html">Chrome</a> web browser
     * <a href="http://www.google.com/hangouts/">Hangouts</a> (<a href="https://www.google.com/tools/dlpage/hangoutplugin">download</a>)
@@ -44,16 +46,20 @@ Good for developers:
   * <a href="https://www.hipchat.com/downloads">HipChat</a> team collaboration
   * <a href="http://www.iterm2.com">iTerm2</a> terminal for Unix shell commands
   * <a href="https://www.java.com/en/download/faq/java_mac.xml">Java</a>
+  * <a href="http://sourceforge.net/projects/meshlab">MeshLab</a> mesh processing system for 3D scanning and printing
   * <a href="http://qt-project.org">Qt</a> cross platform framework
   * <a href="http://www.jetbrains.com/ruby/">RubyMine</a>
+    * Plugins: Markdown
   * <a href="http://www.rubymotion.com">RubyMotion</a> (<a href="http://t.co/PjqUbXQL4Q">download</a>)
   * <a href="http://www.soapui.org">SoapUI testing tool</a>
   * <a href="http://www.sourcetreeapp.com/">SourceTree</a> Git GUI
   * Vagrant-*.*.*.dmg
   * <a href="https://www.virtualbox.org/">VirtualBox</a>
     * Also download the Oracle VM VirtualBox Extension Pack
+    * Install "Guest Additions"
     * <a href="http://ubuntu.com">Ubuntu</a> ISO images
     * <a href="http://modern.ie">Modern.ie</a> OVA images for Internet Explorer and Microsoft Windows
+    * Change "Host Key" to right-clover: Preferences: Input (tab): Virtual Machine (tab): Host Key Combination
   * <a href="https://xquartz.macosforge.org">XQuartz</a> X server for OSX
 
 Coding:

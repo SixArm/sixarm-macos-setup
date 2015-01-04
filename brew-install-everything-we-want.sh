@@ -1,8 +1,18 @@
 ###
+# Brew install everything we want.
+#
 # Before we begin:
 #
 #   * Install XCode
 #   * Install XQuartz: https://xquartz.macosforge.org
+#
+# To find what a given package does:
+#
+#    http://brewformulas.org/
+#
+# For example package "foo" is:
+#
+#    http://brewformulas.org/foo
 #
 ###
 
@@ -61,6 +71,9 @@ brew install pkg-config && brew link pkg-config && brew install tmux
 brew install zsh
 
 ## Fetchers
+
+# Homebrew Cask extends Homebrew to install OS X applications and large binaries.
+brew install cask
 
 # curl is a command line tool for transferring data with URL syntax
 brew install curl
@@ -129,7 +142,10 @@ brew install aspell --with-lang=en
 # Emacs editor.
 sudo rm /usr/bin/emacs &&
 sudo rm -rf /usr/share/emacs &&
-brew install emacs --cocoa --use-git-head --HEAD && curl -L http://git.io/epre | sh
+brew install emacs --cocoa --srgb --use-git-head --HEAD &&
+ls -1 /usr/local/Cellar/emacs/*/bin/emacs |
+tail -1 |
+xargs -I{} sudo ln -sf "{}" /usr/bin/emacs
 
 # Vim editor.
 brew install vim
@@ -166,6 +182,9 @@ brew install gnuplot
 brew install grep
 
 # TBD
+brew install html-xml-utils
+
+# TBD
 brew install lynx
 
 # Meld is a visual diff and merge tool targeted at developers.
@@ -181,6 +200,12 @@ brew install mutt
 brew install netcat
 
 # TBD
+brew install ncdu
+
+# TBD
+brew install randomize-lines
+
+# TBD
 brew install rename
 
 # TBD
@@ -191,6 +216,7 @@ brew install unison
 
 # xclip is a command line interface to the X11 clipboard.
 brew install xclip
+brew install xmstarlet
 
 ## Language-Related
 
@@ -333,7 +359,25 @@ brew install ffmpegthumbnailer
 brew install imagemagick
 brew install theora
 
+## Font-Related
+
+# Fontconfig is a library for configuring and customizing font access.
+brew install fontconfig
+
+# FreeType is a freely available software library to render fonts.
+brew install freetype
+
+## Image-Related
+
+brew install libgphoto2
+brew install libpng
+brew install libtiff
+
+# Jasper command line transcoder between JPEG2000 and other formats.
+brew install jasper
+
 ## Uncategorized
+
 brew install abook
 brew install ack
 brew install apachetop
