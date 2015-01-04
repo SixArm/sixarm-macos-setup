@@ -7,135 +7,322 @@
 ###
 
 ## Lib
+
+# The libevent API provides provides asynchronous event notification and callbacks.
 brew install libevent
+
+# Magic number recognition library for file types.
 brew install libmagic
-brew install libmemcached
-brew install libxml2
-brew install libxslt
 
 ## Fundamental
+
+# Automake is a tool for automatically generating Makefile installation files.
 brew install automake
+
+# Basic file, shell and text manipulation utilities of the GNU operating system.
 brew install coreutils
+
+# GNU stream editor; compare `sed`.
 brew install gnu-sed --default-names
+
+# GNU Privacy Guard (GnuPG) provides encryption as a free replacement for PGP.
 brew install gpg
+
+# OpenSSH is an open-source implementation of the SSH1 and SSH2 protocols.
 brew install openssh
+
+# OpenSSL is an open-source implementation of the SSL and TLS protocols.
 brew install openssl
+
+# pkg-config is a helper tool used when compiling applications and libraries.
+brew install pkg-config && brew link pkg-config && brew install tmux
+
+# Functions for use by applications that allow users to edit command lines while typing.
 brew install readline
+
+# zlib is a software library used for data compression.
 brew install zlib
 
 ## Shells
+
+# Bash is the Bourne Again SHell. Bash is an sh-compatible shell.
 brew install bash
+
+# TBD
 brew install bash-completion
+
+# TBD
 brew install bashish
+
+# pkg-config is a helper tool used when compiling applications and libraries.
 brew install pkg-config && brew link pkg-config && brew install tmux
+
+# Zsh is a shell designed for interactive use.
 brew install zsh
 
 ## Fetchers
+
+# curl is a command line tool for transferring data with URL syntax
 brew install curl
+
+# HTTrack is a free and easy-to-use offline browser utility.
 brew install httrack
+
+# WinRAR provides compression/decompression for RAR and ZIP files.
 brew install unrar
+
+# Wget is a free software package for retrieving files using HTTP and FTP.
 brew install wget
 
 ## Version Control
-brew install git
+
+# CVS is a version control system.
 brew install cvs
+
+# Git is a free and open source distributed version control system.
 brew install git
-brew install git
+
+# TBD
 brew install git-cola
+
+# TBD
 brew install git-diffall
+
+# Git extensions to provide high-level operations for Git Flow branching model.
 brew install git-flow
+
+# TBD
 brew install git-ftp
+
+# TBD
 brew install git-gerrit
+
+# TBD
 brew install git-hg
+
+# TBD
 brew install git-multipush
+
+# TBD
 brew install git-now
+
+# TBD
 brew install git-subtree
+
+# TBD
 brew install git-url-sub
+
+# TBD
 brew install git-utils
+
+# Mercurial version control system.
 brew install hg
+
+# Subversion version control system.
 brew install sqlite && brew link sqlite && brew install subversion
 
 ## Editing-Related
+
+# GNU Aspell is a free open source spell checker; compare `lspell`.
 brew install aspell --with-lang=en
+
+# Emacs editor.
 sudo rm /usr/bin/emacs &&
 sudo rm -rf /usr/share/emacs &&
 brew install emacs --cocoa --use-git-head --HEAD && curl -L http://git.io/epre | sh
+
+# Vim editor.
 brew install vim
 
+## Parsing
+
+# Libxml2 is the XML C parser and toolkit.
+brew install libxml2
+
+# Libxslt is the XSLT C library for the XML EXtensible Stylesheet Language.
+brew install libxslt
+
 ## Tools
+
+# ag is "the silver searcher" search tool, like an optimized grep.
 brew link autoconf automake && brew install ag
+
+# jq is a lightweight and flexible command-line JSON processor.
 brew install jq
+
+# TBD
 brew install gawk
+
+# GraphicsMagick is the swiss army knife of image processing.
 brew install graphicsmagick
+
+# TBD
 brew install graphviz
+
+# Gnuplot is a portable command-line driven graphing utility.
 brew install gnuplot
+
+# TBD
 brew install grep
+
+# TBD
 brew install lynx
+
+# Meld is a visual diff and merge tool targeted at developers.
 brew install meld
+
+# Most is a powerful paging program; compare `less` and `more`.
 brew install most
+
+# Mutt is a small powerful text-based mail client.
 brew install mutt
+
+# Netcat is a networking utility for the TCP/IP protocol.
 brew install netcat
+
+# TBD
 brew install rename
+
+# TBD
 brew install salt
+
+# Unison is a high-level file synchronization utility; compare `rsync`.
 brew install unison
+
+# xclip is a command line interface to the X11 clipboard.
 brew install xclip
 
 ## Language-Related
+
+# Closure programming language; compare `lisp`, `java`.
 brew install clojure
 brew install closure-compiler
+
+# CPAN search for perl modules
 brew install cpansearch
+
+# Elixer programming language built on top of the Erlang VM.
 brew install elixir
+
+# Erlang programming language for scalable high-availability systems.
 brew install erlang
+
+# Go programming language by Google; compare `C`.
 brew install go
 brew install go-gui
+
+# JavaScript programming language.
 brew install js
+
+# Leiningen automates Clojure projects.
 brew install leiningen
+
+# Apache Maven is a software project management and comprehension tool.
 brew install maven
+
+# Perl programming language, esp. for systems administration.
 brew install perl
+
+# Perl-Compatible Regular Expressions pattern matching tools.
 brew install pcre
+
+# Python programming language, esp. for systems scripting.
 brew install python
 brew install python3
-brew install r
-brew install scala
-brew install v8
-# Ruby
-brew install chruby  
-brew install jruby
-brew install ruby
-brew install ruby-install
-brew install rubinius
-brew install ruby-build
-brew install rbenv
 
+# R programming language, esp. for statistics.
+brew install r
+
+# Scala programming language, that runs on top of the JVM.
+brew install scala
+
+# V8 JavaScript Engine.
+brew install v8
+
+## Ruby
+
+# chruby changes the current Ruby.
+brew install chruby
+
+# JRuby is a high performance, stable, fully threaded Java implementation of Ruby.
+brew install jruby
+
+# Ruby programming language; compare `perl`, `python`.
+brew install ruby
+
+# Tool to install various implementations of Ruby.
+brew install ruby-install
 
 ## Database-Related
+
+# Cassandra database.
 brew install cassandra
+
+# CouchDB database, esp. for document-oriented storage.
 brew install couchdb
+
+# Hadoop database.
 brew install hadoop
+
+# MySQL database.
 brew install mysql
+
+# MongoDB database.
 brew install mongodb
+
+# PostgreSQL database.
 brew install postgresql
+
+# Redis database, esp. for key-value cache and store, and a data structure server.
 brew install redis
+
+# Riak open-source distributed database.
 brew install riak
+
+# Sphinx search engine.
 brew install mysql && brew install postgresql && brew install sphinx
+
+# SQLite database: self-contained, serverless, zero-configuration, transactional engine.
 brew install sqlite && brew link sqlite
 
 ## Server-Related
+
+# TBD
 brew install glassfish
+
+# TBD
 brew install httpd
+
+# Jetty provides a Java web server and javax.servlet container.
 brew install jetty
+
+# Monit is for managing and monitoring Unix systems.
 brew install monit
+
+# Nagios IT infrastructure monitoring.
 brew install nagios
+
+# TBD
 brew install nginx
+
+# RabbitMQ enterprise message queue based on the emerging AMQP standard.
 brew install rabbitmq
+
+# Siege is an http load testing and benchmarking utility.
 brew install siege
+
+# Apache Tomcat implements Java Servlet and JavaServer Pages technologies.
 brew install tomcat
+
+# Varnish reverse-proxy web application accelerator.
 brew install varnish
 
 ## Network-Related
+
 brew install wireshark
 
 ## Media-Related
+
 brew install exif
 brew install exiftags
 brew install exiftool
@@ -199,13 +386,26 @@ brew install ical-buddy
 brew install jmeter
 brew install jpeg
 brew install lzo
+
+# libMemcached is a client library and tools for the memcached server.
+brew install libmemcached
 brew install memcached
+
 brew install scrypt
 brew install qt
+
+# Tarsnap is a secure online backup service for Unix.
 brew install tarsnap
+
 brew install thrift
+
+# Valkyrie is a Qt4-based GUI for the Memcheck and Helgrind tools in Valgrind.
 brew install valkyrie
+
+# WINE runs Windows applications on other operating systems.
 brew install wine
+
+# Xapian is an open-source search engine library.
 brew install xapian
 
 ### To Be Determined
@@ -1451,3 +1651,14 @@ brew install xapian
 #brew install aws-elasticache
 #brew install aws-iam-tools
 #brew install aws-sns-cli
+
+## Deprecated
+
+# Deprecated because we changed from `rbenv` to `chruby`.
+#   brew install rbenv
+
+# Deprecated because we now use `ruby-install` to install rubinius.
+#   brew install rubinius
+
+# Deprecated because we changed to `ruby-install` which is better.
+#   brew install ruby-build
