@@ -47,9 +47,6 @@ brew install pkg-config && brew link pkg-config && brew install tmux
 # Functions for use by applications that allow users to edit command lines while typing.
 brew install readline
 
-# zlib is a software library used for data compression.
-brew install zlib
-
 ## Shells
 
 # Bash is the Bourne Again SHell. Bash is an sh-compatible shell.
@@ -950,8 +947,6 @@ brew install xapian
 # brew install openmeeg
 # brew install opensaml
 # brew install openslp
-# brew install openssh
-# brew install openssl
 # brew install opentracker
 # brew install openttd
 # brew install openvpn
@@ -1684,6 +1679,44 @@ brew install xapian
 #brew install aws-iam-tools
 #brew install aws-sns-cli
 
+## Dupes
+
+brew install homebrew/dupes/awk
+brew install homebrew/dupes/diffstat
+brew install homebrew/dupes/diffutils
+brew install homebrew/dupes/ed
+brew install homebrew/dupes/expect
+brew install homebrew/dupes/fetchmail
+brew install homebrew/dupes/file-formula
+brew install homebrew/dupes/gdb
+brew install homebrew/dupes/gpatch
+brew install homebrew/dupes/gperf
+brew install homebrew/dupes/grep
+brew install homebrew/dupes/groff
+brew install homebrew/dupes/gzip
+brew install homebrew/dupes/heimdal
+brew install homebrew/dupes/lapack
+brew install homebrew/dupes/less
+brew install homebrew/dupes/libedit
+brew install homebrew/dupes/libiconv
+brew install homebrew/dupes/libpcap
+brew install homebrew/dupes/lsof
+brew install homebrew/dupes/m4
+brew install homebrew/dupes/make
+brew install homebrew/dupes/nano
+brew install homebrew/dupes/ncurses
+brew install homebrew/dupes/openldap
+brew install homebrew/dupes/openssh
+brew install homebrew/dupes/rsync
+brew install homebrew/dupes/screen
+brew install homebrew/dupes/tcl-tk
+brew install homebrew/dupes/tcpdump
+brew install homebrew/dupes/tidy
+brew install homebrew/dupes/units
+brew install homebrew/dupes/unzip
+brew install homebrew/dupes/whois
+brew install homebrew/dupes/zlib
+
 ## Retired
 
 # Retired because we changed from `rbenv` to `chruby`.
@@ -1694,7 +1727,3 @@ brew install xapian
 
 # Retired because we changed to `ruby-install` which is better.
 #brew install ruby-build
-
-# OpenSSH is an open-source implementation of the SSH1 and SSH2 protocols.
-# Retired because brew retired the formula.
-#brew install openssh
