@@ -38,9 +38,6 @@ brew install gnu-sed --default-names
 # GNU Privacy Guard (GnuPG) provides encryption as a free replacement for PGP.
 brew install gpg
 
-# OpenSSH is an open-source implementation of the SSH1 and SSH2 protocols.
-brew install openssh
-
 # OpenSSL is an open-source implementation of the SSL and TLS protocols.
 brew install openssl
 
@@ -1687,13 +1684,17 @@ brew install xapian
 #brew install aws-iam-tools
 #brew install aws-sns-cli
 
-## Deprecated
+## Retired
 
-# Deprecated because we changed from `rbenv` to `chruby`.
-#   brew install rbenv
+# Retired because we changed from `rbenv` to `chruby`.
+#brew install rbenv
 
-# Deprecated because we now use `ruby-install` to install rubinius.
-#   brew install rubinius
+# Retired because we now use `ruby-install` to install rubinius.
+#brew install rubinius
 
-# Deprecated because we changed to `ruby-install` which is better.
-#   brew install ruby-build
+# Retired because we changed to `ruby-install` which is better.
+#brew install ruby-build
+
+# OpenSSH is an open-source implementation of the SSH1 and SSH2 protocols.
+# Retired because brew retired the formula.
+#brew install openssh
