@@ -66,6 +66,9 @@ brew install zsh
 
 ## Fetchers
 
+# Carthage is a simple, decentralized dependency manager for Cocoa
+brew install carthage
+
 # Homebrew Cask extends Homebrew to install OS X applications and large binaries.
 brew install cask
 
