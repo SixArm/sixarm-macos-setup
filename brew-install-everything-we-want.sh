@@ -11,7 +11,7 @@
 #    http://brewformulas.org/
 #
 # For example package "foo" is:
-#
+#car
 #    http://brewformulas.org/foo
 #
 ###
@@ -144,6 +144,9 @@ brew install libxml2
 brew install libxslt
 
 ## Tools
+
+# Ansible is a simple way to automate apps and IT infrastructure.
+brew install ansible
 
 # ag is "the silver searcher" search tool, like an optimized grep.
 brew link autoconf automake && brew install ag
