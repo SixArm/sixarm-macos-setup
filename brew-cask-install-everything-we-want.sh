@@ -109,6 +109,7 @@ brew cask install screenhero
 brew cask install silverlight
 brew cask install skitch
 brew cask install skype
+brew cask install slack
 brew cask install sleep-monitor
 brew cask install sourcetree
 brew cask install spotify
@@ -123,16 +124,8 @@ brew cask install todos
 brew cask fetch   unity-web-player
 brew cask install unison
 brew cask fetch   unity3d
-<<<<<<< HEAD
-brew cask fetch   wireshark
-brew cask install vagrant
-||||||| merged common ancestors
 brew cask install wireshark
 brew cask install vagrant
-=======
-brew cask fetch   wireshark
-brew cask fetch   vagrant
->>>>>>> 1372c42158cca488453d03a741e55404108e6722
 brew cask install virtualbox
 brew cask install vlc
 brew cask fetch   zoomus
@@ -147,13 +140,8 @@ brew cask install google-hangouts
 brew cask install heroku-toolbelt
 brew cask install inky
 brew cask install java
-<<<<<<< HEAD
 brew cask install netbeans
 brew cask install nmap
-||||||| merged common ancestors
-=======
-brew cask install netbeans
->>>>>>> 1372c42158cca488453d03a741e55404108e6722
 brew cask install node
 brew cask install pandoc
 brew cask install prey
@@ -161,14 +149,9 @@ brew cask install r
 brew cask install teamviewer
 brew cask install unity-web-player
 brew cask install unity3d
-<<<<<<< HEAD
-brew cask install wireshark
-||||||| merged common ancestors
-=======
 brew cask install vagrant
 brew cask install wireshark
 brew cask install zoomus
->>>>>>> 1372c42158cca488453d03a741e55404108e6722
 
 ##
 # Applications we want that are not available via cask:
@@ -218,4 +201,3 @@ brew cask install zoomus
 #   * Wunderlist.app
 #   * Xcode.app
 #   * xScan.app
-
