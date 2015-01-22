@@ -47,6 +47,9 @@ brew install pkg-config && brew link pkg-config && brew install tmux
 # Functions for use by applications that allow users to edit command lines while typing.
 brew install readline
 
+# Mobile Shell (MOSH) is like SSH plus roaming and smart echo.
+brew install mobile-shell
+
 ## Shells
 
 # Bash is the Bourne Again SHell. Bash is an sh-compatible shell.
@@ -77,6 +80,9 @@ brew install curl
 
 # HTTrack is a free and easy-to-use offline browser utility.
 brew install httrack
+
+# Protocol buffers for serializing structured data.
+brew install protobuf
 
 # WinRAR provides compression/decompression for RAR and ZIP files.
 brew install unrar
