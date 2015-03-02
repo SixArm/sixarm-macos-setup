@@ -48,6 +48,7 @@ brew cask install chromecast
 brew cask install dash
 brew cask install doxygen
 brew cask install dropbox
+brew cask install duet
 brew cask install eclipse-ide
 brew cask install eclipse-platform
 brew cask fetch   electric-sheep
