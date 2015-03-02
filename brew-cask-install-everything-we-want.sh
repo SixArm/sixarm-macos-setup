@@ -73,6 +73,7 @@ brew cask install google-refine
 brew cask install google-web-designer
 brew cask install grooveshark
 brew cask install harvest
+brew cask install hockey
 brew cask fetch   heroku-toolbelt
 brew cask install hipchat
 brew cask fetch   inky
