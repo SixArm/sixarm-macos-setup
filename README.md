@@ -1,4 +1,4 @@
-# SixArm.com » <br>Mac OSX  Installation Help Notes 
+# <br>Mac OSX  Installation Help Notes 
 
 These are our team's ad-hoc notes for setting up a typical Mac OSX developer laptop. YMMV.
 
