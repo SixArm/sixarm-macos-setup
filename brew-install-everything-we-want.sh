@@ -277,6 +277,11 @@ brew install ruby
 # Tool to install various implementations of Ruby.
 brew install ruby-install
 
+## Swift
+
+# Improved Xcode build tool
+brew install xctool
+
 ## Database-Related
 
 # Cassandra database.
