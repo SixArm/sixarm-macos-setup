@@ -241,6 +241,9 @@ brew install r
 # Scala programming language, that runs on top of the JVM.
 brew install scala
 
+# Source highlight for many languages
+brew install source-highlight
+
 ## JavaScript
 
 # Node.js is a JavaScript platform for building fast, scalable network app.
