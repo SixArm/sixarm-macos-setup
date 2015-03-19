@@ -457,6 +457,9 @@ brew install wine
 # Xapian is an open-source search engine library.
 brew install xapian
 
+# whereami prints your geographical coordinates, as determined by Core Location
+brew install whereami
+
 ### To Be Determined
 
 # brew install json-c
