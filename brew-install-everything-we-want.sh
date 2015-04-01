@@ -311,6 +311,9 @@ brew install sqlite && brew link sqlite
 
 ## Server-Related
 
+# Docker software containers to help distribute applications.
+brew install docker && brew install boot2docker
+
 # TBD
 brew install glassfish
 
