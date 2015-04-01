@@ -423,6 +423,7 @@ brew install google-perftools
 brew install google-sparsehash
 brew install google-sql-tool
 brew install html2text
+brew install htop
 brew install httperf
 brew install ical-buddy
 brew install jmeter
