@@ -53,17 +53,22 @@ I got a "missing path" error and some options to correct it, so I ran this:
     sudo xcode-select -switch /Applications/Xcode.app/Contents/Developer/
 
 
-## Starters
+## Brew install
+
+We maintain a complete list of our "brew install" commands at https://github.com/SixArm/sixarm_brew_install
+
+If you prefer a quick start, here are some good packages:
 
 Brew install:
 
-    brew install zsh
-    ... for a complete list of what we use, see brew-install.txt ...   
-    echo ack apple-gcc42 colordiff ctags curl emacs geoip git gpg hg imagemagick libmagic \
-      libmemcached libxml2 libxslt lzo meld memcached most mysql nginx pcre postgresql \
-      rbenv readline redis rename ruby ruby-build sphinx sqlite tomcat v8 wget zsh \
-      | xargs brew install 
-    brew link libmagic
+```sh
+brew install git
+brew install gpg
+brew install postgresql
+brew install wine
+brew install xclip
+brew install zsh
+
 
 
 ## Help
@@ -93,18 +98,15 @@ To fix this, we create a GitHub API token at https://github.com/settings/applica
   * Tap "Personal Access Tokens"
 
   * Tap "Create New Token"
-  
+
   * Name it, e.g. "brew"
-  
+
   * The result will be a long hex string e.g. <code>12334567890abcdef</code>
-  
+
   * Add it to our personal environment <code>~/.environment</code> file:
-  
+
      export HOMEBREW_GITHUB_API_TOKEN=12334567890abcdef
 
 We keep the key here:
 
     ~/keys/github/personal-access-tokens/brew.gpg
-    
-    
-
