@@ -1,4 +1,4 @@
-# <br>Mac OSX  Installation Help Notes 
+# <br>Mac OSX  Installation Help Notes
 
 These are our team's ad-hoc notes for setting up a typical Mac OSX developer laptop. YMMV.
 
@@ -22,7 +22,7 @@ Ensure our current user account can administer the system:
    * Preferences > Users & Groups
    * Pick our user
    * Check "Allow user to administer this computer"
-    
+
 If we're getting the computer from another user, we can adjust ownership and permissions:
 
     sudo touch /usr/local/{Cellar,Library/LinkedKegs} &&
@@ -52,13 +52,14 @@ Example:
 Load:
 
     source /etc/environment
-    
-    
+
+
 ## Developer software and notes
 
   * <a href="xcode.md">xcode.md</a>: Xcode development tools</a>
   * <a href="brew.md">brew.md</a>: Brew Mac package manager</a>
   * <a href="adium.md">adium.md</a>: Adium instant messenger settings</a>
+  * <a href="osx-cpu-temp.md">osx-cpu-temp.md</a>: Command to show the OSX CPU temperature</a>
 
 
 ## Database setup
