@@ -1,0 +1,20 @@
+##
+## PSA: Beware of sudo on OS X
+##
+## There's a a newly discovered local root
+## exploit on OS X 10.10.5, so I thought this might be a good time to
+## make sure everyone is aware of something that I just discovered
+## myself a few days ago: Apple ships sudo with tty_tickets disabled
+## by default. What this means is that if you use sudo to give
+## yourself root privileges, your sudo authentication is not bound to
+## the TTY in which you ran sudo. It applies to any process you (or
+## malware running as you) start after authentication. The way Apple
+## ships sudo it is, essentially, a giant privilege escalation
+## vulnerability. To see this: open two terminal windows and run sudo
+## in both of them. Only the first one will ask for your password.
+##
+## It's easy to fix.  Just run visudo and add this line:
+##
+##     Defaults tty_tickets
+##
+Defaults    tty_tickets
