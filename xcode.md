@@ -41,3 +41,11 @@ Documents tab > install the current versions of these, plus whatever else we wan
 N.b. Installing all these should solve this Xcode Brew error message:
 
     Experimental support for using Xcode with the "Command Line Tools".
+
+
+## Optional Extras
+
+Optional extras that make Xcode more useful:
+
+  * <a href="http://alcatraz.io/">Alcatraz</a>: a package manager for Xcode
+  * <a href="https://fastlane.tools/">Fastlane</a>:  define and run your deployment pipelines for different environments
