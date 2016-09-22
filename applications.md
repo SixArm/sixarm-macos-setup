@@ -6,6 +6,8 @@ Good for everyone:
   * <a href="http://get.adobe.com/flashplayer/otherversions/">Adobe Flash</a> player
   * <a href="http://www.android.com/filetransfer/">Android file transfer</a> for Android phones
   * <a href="http://www.backblaze.com/">BackBlaze</a> backup service
+  * <a href="https://www.boastr.net/bettersnaptool/">BetterSnapTool</a> window manager
+  * <a href="https://www.boastr.net/">BetterTouchTool</a> trackpad gesture utility
   * <a href="http://dropbox.com">Dropbox</a> file sharing
   * <a href="http://firefox.com">Firefox</a> web browser and add ons:
     * Adblock
