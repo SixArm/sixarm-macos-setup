@@ -9,6 +9,7 @@ Good for everyone:
   * <a href="https://www.boastr.net/bettersnaptool/">BetterSnapTool</a> window manager
   * <a href="https://www.boastr.net/">BetterTouchTool</a> trackpad gesture utility
   * <a href="http://dropbox.com">Dropbox</a> file sharing
+  * <a href="https://www.expressvpn.com/">ExpressVPN</a> for secure networking
   * <a href="http://firefox.com">Firefox</a> web browser and add ons:
     * Adblock
     * FlashGot
