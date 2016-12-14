@@ -15,13 +15,14 @@ Good for everyone and free:
   * Twitter: social networking
   * Facebook: social networking
   * Simplenote: to do list
-  * Mint: for tracking money in your bank accounts 
+  * Mint: for tracking money in your bank accounts
   * Caffeine: to keep the computer from going to sleep
   * Pin for Pinterest: for pinning images
   * Fotor: photo editor
-  
+
 Good for developers:
 
+  * Affinity Photo: image editor similar to Photoshop and Illustrator
   * Xcode
   * Tutorial for Xcode
   * Memory Clean: defrags RAM after large uses
