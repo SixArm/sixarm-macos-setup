@@ -13,7 +13,7 @@ Good for everyone:
     * Adblock
     * FlashGot
   * <a href="http://justgetflux.com">F.lux</a> screen color adjuster
-  * <a href="http://gfx.io/">gfxCardStatus</a> menu bar app for MacBook Pro to show which apps use power-hungry graphics. 
+  * <a href="http://gfx.io/">gfxCardStatus</a> menu bar app for MacBook Pro to show which apps use power-hungry graphics.
   * Google
     * <a href="https://www.google.com/intl/en/chrome/browser/welcome.html">Chrome</a> web browser
     * <a href="http://www.google.com/hangouts/">Hangouts</a> (<a href="https://www.google.com/tools/dlpage/hangoutplugin">download</a>)
@@ -28,9 +28,10 @@ Good for everyone:
   * <a href="http://java.com/en/">Java</a> runtime
   * <a href="http://lastpass.com/">LastPass</a> password manager
   * <a href="http://www.kiwix.org/wiki/Main_Page">Kiwix</a> Wikipedia offline viewer
-    * Then download Wikipedia, Wikiquote, Wikivoyage, Wiktionary, and any others you want 
-  * <a href="https://www.openoffice.org/">OpenOffice</a> or <a href="http://libreoffice.org">LibreOffice</a> for writing, spreadsheets, etc. 
+    * Then download Wikipedia, Wikiquote, Wikivoyage, Wiktionary, and any others you want
+  * <a href="https://www.openoffice.org/">OpenOffice</a> or <a href="http://libreoffice.org">LibreOffice</a> for writing, spreadsheets, etc.
     * The installation may need: System Preferences > Security & Privacy > General > Open Anyway
+  * <a href="https://riot.im">Riot</a> messaging with secure end-to-end encryption
   * <a href="http://www.microsoft.com/getsilverlight/Get-Started/Install/Default.aspx">Silverlight</a> media player plugin
   * <a href="http://skype.com">Skype</a> instant messenger and video calling
   * <a href="http://www.macupdate.com/app/mac/14352/spark">Spark</a> hotkey utility
@@ -68,7 +69,7 @@ Coding:
 
   * XCode command line tools: <pre>xcode-select --install</a>
   * Brew package manager: <pre>ruby -e "$(curl -fsSL https://raw.github.com/Homebrew/homebrew/go/install)"</a>
-  * IE & Windows for VirtualBox: <pre>curl -C - -O -L "https://www.modern.ie/vmdownload?platform=mac&virtPlatform=virtualbox&browserOS=IE11-Win8.1&parts=4&filename=VMBuild_20140402/VirtualBox/IE11_Win8.1/Mac/IE11.Win8.1.For.MacVirtualBox.part{1.sfx,2.rar,3.rar,4.rar}"</pre> 
+  * IE & Windows for VirtualBox: <pre>curl -C - -O -L "https://www.modern.ie/vmdownload?platform=mac&virtPlatform=virtualbox&browserOS=IE11-Win8.1&parts=4&filename=VMBuild_20140402/VirtualBox/IE11_Win8.1/Mac/IE11.Win8.1.For.MacVirtualBox.part{1.sfx,2.rar,3.rar,4.rar}"</pre>
 
 Coding files TBD:
 
