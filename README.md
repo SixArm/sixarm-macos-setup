@@ -60,6 +60,7 @@ Load:
   * <a href="brew.md">brew.md</a>: Brew Mac package manager</a>
   * <a href="adium.md">adium.md</a>: Adium instant messenger settings</a>
   * <a href="osx-cpu-temp.md">osx-cpu-temp.md</a>: Command to show the OSX CPU temperature</a>
+  * <a href="karabiner.md">karabiner.md</a>: Karabiner changes the key "caps lock" to "control" and "escape".
 
 
 ## Database setup
