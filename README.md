@@ -1,4 +1,4 @@
-# <br>Mac OSX  Installation Help Notes
+# macOS Installation Help Notes
 
 These are our team's ad-hoc notes for setting up a typical Mac OSX developer laptop. YMMV.
 
@@ -6,7 +6,6 @@ Our notes are primarily for OSX 10.9 a.k.a. Mavericks.
 
 
 ## Start
-
 
   * Apple menu > Software Update...
   * Register for Apple Id (if you don't already have one)
@@ -52,6 +51,13 @@ Example:
 Load:
 
     source /etc/environment
+
+
+## MAS: Mac App Store
+
+MAS is very useful for installing many apps.
+
+  * <a href=mas.md>MAS: Mac App Store</a> command line interface
 
 
 ## Developer software and notes
