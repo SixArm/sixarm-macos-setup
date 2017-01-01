@@ -44,23 +44,25 @@ Choose the Apple menu, then choose "System Preferences....", then "FileVault", t
 
 Do you want to sync an iPhone, iPad, or other device? If so, connect these now.
 
-* You may want to launch iTunes, because this shows you what is synchronizing, and this can also make a backup of your device.
+* You may want to launch iTunes, because this shows you what is synchronizing.
+
+* If you use iTunes, then you can have iTunes make a backup of your device now.
 
 
-## Set Preferences & Defaults
+## Set System Preferences & Defaults
 
 We set a bunch of system preferences to customize our Desktop, Dock, Keyboard, Sound, and so on.
 
-* If you are a typical user, then you can pick and choose from our complete list of <a href="system_preferences.md">System Preferences</a>
+* For typical users: you can pick and choose from our complete list of <a href="notes/system_preferences.md">System Preferences</a>
 
-* If you are an advanced user, then you may prefer to run our <a href="defaults.sh">defaults script</a>.
+* Advanced users: run our <a href="notes/defaults.sh">defaults script</a>.
 
 
 ## Applications
 
 We use many applications.
 
-* If you are a typical user, then you can pick and choose using our list of <a href="appstore.md">App Store</a> apps and <a href="applications.md">Applications</a> that we download</a>.
+* Typical users: you can pick and choose using our list of <a href="notes/appstore.md">App Store</a> apps and <a href="notes/applications.md">Applications</a> that we download</a>.
 
 * If you are an advanced user, then you may prefer to use our scripts for brew, cask, mas, and so on. See below for these.
 
@@ -88,41 +90,41 @@ Load:
 
 MAS is very useful for installing many apps.
 
-  * <a href=mas.md>MAS: Mac App Store</a> command line interface
+  * <a href="notes/mas.md">MAS: Mac App Store</a> command line interface
 
 
 ## Developer software and notes
 
-  * <a href="admin.md">admin.md</a>: Ensure our user can administer the system
-  * <a href="xcode.md">xcode.md</a>: Xcode development tools</a>
-  * <a href="git.md">git.md</a>: Git version control</a>
-  * <a href="brew.md">brew.md</a>: Brew Mac package manager</a>
-  * <a href="adium.md">adium.md</a>: Adium instant messenger settings</a>
-  * <a href="osx-cpu-temp.md">osx-cpu-temp.md</a>: Command to show the OSX CPU temperature</a>
-  * <a href="karabiner.md">karabiner.md</a>: Karabiner changes the key "caps lock" to "control" and "escape".
+  * <a href="notes/admin.md">admin.md</a>: Ensure our user can administer the system
+  * <a href="notes/xcode.md">xcode.md</a>: Xcode development tools</a>
+  * <a href="notes/git.md">git.md</a>: Git version control</a>
+  * <a href="notes/brew.md">brew.md</a>: Brew Mac package manager</a>
+  * <a href="notes/adium.md">adium.md</a>: Adium instant messenger settings</a>
+  * <a href="notes/osx-cpu-temp.md">osx-cpu-temp.md</a>: Command to show the OSX CPU temperature</a>
+  * <a href="notes/karabiner.md">karabiner.md</a>: Karabiner changes the key "caps lock" to "control" and "escape".
 
 
 ## Database setup
 
-  * <a href=mysql.md>mysql.md</a>: MySQL database
-  * <a href=postgres.md>postgres</a>: Postgres database, including Ruby pg gem</a>
+  * <a href="notes/mysql.md">mysql.md</a>: MySQL database
+  * <a href="notes/postgres.md">postgres</a>: Postgres database, including Ruby pg gem</a>
 
 
 ## Programming software and notes
 
-  * <a href=gcc.md>gcc.md</a>: Gnu Compiler Collection
-  * <a href=emacs.md>emacs.md</a>: Emacs text editor</a>
-  * <a href=iterm2.md>iterm2.md</a>: iTerm2 terminal emulator for Unix shell commands
-  * <a href=ruby.md>ruby.md</a>: Ruby programming
-  * <a href=java.md>java.md</a>: Java programming
-  * <a href=chef.md>chef.md</a>: Chef system manager
-  * <a href=virtualhosts.md>virtualhosts.md</a>: Virtual hosts
+  * <a href="notes/gcc.md">gcc.md</a>: Gnu Compiler Collection
+  * <a href="notes/emacs.md">emacs.md</a>: Emacs text editor</a>
+  * <a href="notes/iterm2.md">iterm2.md</a>: iTerm2 terminal emulator for Unix shell commands
+  * <a href="notes/ruby.md">ruby.md</a>: Ruby programming
+  * <a href="notes/java.md">java.md</a>: Java programming
+  * <a href="notes/chef.md">chef.md</a>: Chef system manager
+  * <a href="notes/virtualhosts.md">virtualhosts.md</a>: Virtual hosts
 
 ## Spotlight
 
 Skip the Spotlight search index on these folders:
 
-  * <a href=spotlight_exclude_folder_list.txt>spotlight_exclude_folder_list.txt</a>
+  * <a href="notes/spotlight_exclude_folder_list.txt">spotlight_exclude_folder_list.txt</a>
 
 ## See Also
 
