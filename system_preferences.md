@@ -1,13 +1,8 @@
 # System Preferences
 
+To set your system preferences, choose the Apple menu (in the upper left of your screen) then choose "System Preferences...".
 
-Apple menu > System Preferences
-
-  * Apple menu > Software Update...
-  * Register for Apple Id (if you don't already have one)
-
-
-## For OSX 10.9
+You can pick and choose any of these that you want.
 
 General:
   * Recent items: (set to max)
@@ -26,7 +21,7 @@ Dock:
 
 Mission Control:
   * N/A
-  
+
 Language & Region:
   * Time format: 24-Hour Time
   * Advanced (button)
@@ -37,7 +32,7 @@ Language & Region:
 
 Security & Privacy:
   * Turn on File Vault
-  
+
 Spotlight:
   * Privacy: Prevent Spotlight from searching these locations
     * /Users/me/Library/Application Support/Firefox
@@ -49,8 +44,8 @@ Keyboard:
     * Delay until repeat: short
   * Use all F1, F2, etc. keys as standard function keys (check)
   * Adjust Keyboard brightness in low light: check
-    * Turn off when computer is not used for: 5 minutes 
-  * Show Keyboard & Character viewers in menu bar 
+    * Turn off when computer is not used for: 5 minutes
+  * Show Keyboard & Character viewers in menu bar
   * Modifier keys... (button)
     * Change Caps Lock to Ctl
 

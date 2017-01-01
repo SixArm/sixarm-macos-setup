@@ -1,18 +1,70 @@
-# macOS Installation Help Notes
+# macOS Setup Notes
 
-These are our team's notes to set up a typical Mac developer laptop.
+How to set up a new Mac computer that is running macOS? These notes show how our teams do it.
 
-Our notes are primarily for macOS 10.12 a.k.a. Sierra.
+* These notes start with the basics that are good for everyone.
+
+* We use Apple macOS 10.12 a.k.a. Sierra. We expect most of these notes will work on many versions of macOS.
 
 
-## Start
+## Turn on your computuer
 
-  * Apple menu > Software Update...
-  * Register for a personal Apple Id, if you don't already have one.
-  * <a href="defaults.sh">Defaults</a>: adjust a bunch of default settings
-  * <a href="system_preferences.md">system_preferences.md</a>: System Preferences</a>
-  * <a href="appstore.md">App Store apps</a>
-  * <a href="applications.md">applications.md</a>: Applications that we download</a>
+When you turn the computer on, the Setup Assistant launches.
+
+* Enter your language, time zone, Apple ID, and so on.
+
+* If you already use a different Mac computer, and you want to do a migration of all your files, then you can use the “Migration Assistant”. We prefer to skip this; we prefer to set up the computer from scratch.
+
+* Register for a personal Apple Id, if you don't already have one.
+
+* If you want to use iCloud, then do so.
+
+
+## Do a software update
+
+Choose the Apple menu, then "Software Update...".
+
+* This step downloads all the current updates for your system, such as bug fixes, security patches, and feature improvements.
+
+* This step may take a while because macOS updates tend to be large to download.
+
+
+## Enable FileVault security
+
+Choose the Apple menu, then choose "System Preferences....", then "FileVault", then turn it on.
+
+* This step encrypts your entire drive.
+
+* This step may take a while because macOS is adding encryption to your entire system.
+
+
+## Connect your iPhone, iPad, etc.
+
+Do you want to sync an iPhone, iPad, or other device? If so, connect these now.
+
+* You may want to launch iTunes, because this shows you what is synchronizing, and this can also make a backup of your device.
+
+
+## Set Preferences & Defaults
+
+We set a bunch of system preferences to customize our Desktop, Dock, Keyboard, Sound, and so on.
+
+* If you are a typical user, then you can pick and choose from our complete list of <a href="system_preferences.md">System Preferences</a>
+
+* If you are an advanced user, then you may prefer to run our <a href="defaults.sh">defaults script</a>.
+
+
+## Applications
+
+We use many applications.
+
+* If you are a typical user, then you can pick and choose using our list of <a href="appstore.md">App Store</a> apps and <a href="applications.md">Applications</a> that we download</a>.
+
+* If you are an advanced user, then you may prefer to use our scripts for brew, cask, mas, and so on; see below for these.
+
+
+# Advanced Users
+
 
 ## Admin
 
@@ -54,6 +106,7 @@ MAS is very useful for installing many apps.
 ## Developer software and notes
 
   * <a href="xcode.md">xcode.md</a>: Xcode development tools</a>
+  * <a href="git.md">git.md</a>: Git version control</a>
   * <a href="brew.md">brew.md</a>: Brew Mac package manager</a>
   * <a href="adium.md">adium.md</a>: Adium instant messenger settings</a>
   * <a href="osx-cpu-temp.md">osx-cpu-temp.md</a>: Command to show the OSX CPU temperature</a>
@@ -75,13 +128,6 @@ MAS is very useful for installing many apps.
   * <a href=java.md>java.md</a>: Java programming
   * <a href=chef.md>chef.md</a>: Chef system manager
   * <a href=virtualhosts.md>virtualhosts.md</a>: Virtual hosts
-
-## Git
-
-Git config:
-
-    git config --global user.name "Your Full Name"
-    git config --global user.email "you@example.com"
 
 ## Spotlight
 
