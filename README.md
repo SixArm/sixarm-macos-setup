@@ -1,15 +1,15 @@
 # macOS Installation Help Notes
 
-These are our team's ad-hoc notes for setting up a typical Mac OSX developer laptop. YMMV.
+These are our team's notes to set up a typical Mac developer laptop.
 
-Our notes are primarily for OSX 10.9 a.k.a. Mavericks.
+Our notes are primarily for macOS 10.12 a.k.a. Sierra.
 
 
 ## Start
 
   * Apple menu > Software Update...
-  * Register for Apple Id (if you don't already have one)
-  * <a href="defaults.sh">Defaults</a>
+  * Register for a personal Apple Id, if you don't already have one.
+  * <a href="defaults.sh">Defaults</a>: adjust a bunch of default settings
   * <a href="system_preferences.md">system_preferences.md</a>: System Preferences</a>
   * <a href="appstore.md">App Store apps</a>
   * <a href="applications.md">applications.md</a>: Applications that we download</a>
@@ -28,15 +28,6 @@ If we're getting the computer from another user, we can adjust ownership and per
     sudo chown -R root:admin /usr/local/{Cellar,Library/LinkedKegs,man,share/man} &&
     sudo find /usr/local/{Cellar,Library/LinkedKegs,man,share/man} -type d -exec chmod 775 {} \;
 
-## Finder
-
-Unhide the Library folder:
-
-  * Open a Finder window
-  * Open your home directory
-  * Click the gear icon
-  * Choose "Show View Options"
-  * Check "Show Library Folder"
 
 ## Environment
 
