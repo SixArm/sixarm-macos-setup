@@ -97,3 +97,7 @@ Git config:
 Skip the Spotlight search index on these folders:
 
   * <a href=spotlight_exclude_folder_list.txt>spotlight_exclude_folder_list.txt</a>
+
+## See Also
+
+* [Setting up a Brand New Mac for Development by Tania Rascia](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
