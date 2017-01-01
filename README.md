@@ -1,8 +1,10 @@
-# macOS Setup Notes
+# SixArm Mac Setup
 
-How to set up a new Mac computer that is running macOS? These notes show how our teams do it.
+How to set up a new Mac computer? These notes show how our teams do it.
 
-* These notes start with the basics that are good for everyone.
+* These notes start with the basics, suitable for everyone.
+
+* These notes continue with more advanced information, suitable for people who are developers and programmers.
 
 * We use Apple macOS 10.12 a.k.a. Sierra. We expect most of these notes will work on many versions of macOS.
 
@@ -13,11 +15,11 @@ When you turn the computer on, the Setup Assistant launches.
 
 * Enter your language, time zone, Apple ID, and so on.
 
-* If you already use a different Mac computer, and you want to do a migration of all your files, then you can use the “Migration Assistant”. We prefer to skip this; we prefer to set up the computer from scratch.
+* If you already use a different Mac computer, and you want to do a migration of all your files, then you can use the “Migration Assistant”. We prefer to skip this step because we prefef to set up our computer from scratch.
 
 * Register for a personal Apple Id, if you don't already have one.
 
-* If you want to use iCloud, then do so.
+* If you want to use iCloud, do it.
 
 
 ## Do a software update
@@ -60,25 +62,11 @@ We use many applications.
 
 * If you are a typical user, then you can pick and choose using our list of <a href="appstore.md">App Store</a> apps and <a href="applications.md">Applications</a> that we download</a>.
 
-* If you are an advanced user, then you may prefer to use our scripts for brew, cask, mas, and so on; see below for these.
+* If you are an advanced user, then you may prefer to use our scripts for brew, cask, mas, and so on. See below for these.
 
 
 # Advanced Users
 
-
-## Admin
-
-Ensure our current user account can administer the system:
-
-   * Preferences > Users & Groups
-   * Pick our user
-   * Check "Allow user to administer this computer"
-
-If we're getting the computer from another user, we can adjust ownership and permissions:
-
-    sudo touch /usr/local/{Cellar,Library/LinkedKegs} &&
-    sudo chown -R root:admin /usr/local/{Cellar,Library/LinkedKegs,man,share/man} &&
-    sudo find /usr/local/{Cellar,Library/LinkedKegs,man,share/man} -type d -exec chmod 775 {} \;
 
 
 ## Environment
@@ -105,6 +93,7 @@ MAS is very useful for installing many apps.
 
 ## Developer software and notes
 
+  * <a href="admin.md">admin.md</a>: Ensure our user can administer the system
   * <a href="xcode.md">xcode.md</a>: Xcode development tools</a>
   * <a href="git.md">git.md</a>: Git version control</a>
   * <a href="brew.md">brew.md</a>: Brew Mac package manager</a>
