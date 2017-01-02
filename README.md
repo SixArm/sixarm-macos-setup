@@ -90,15 +90,15 @@ We set many system preferences and application defaults by using the command `de
 
 Script:
 
-  * <a href="bin/defaults-write-our-favorites.sh">defaults-write-our-favorites.sh</a>.
+  * <a href="bin/defaults-write-our-favorites.sh">defaults-write-our-favorites.sh</a>
 
 
 ## Brew, Cask, MAS
 
 Brew, Cask, and Mac App Store (MAS), are all very useful for installing apps via the command line. These are the best Mac package managers in our opinion.
 
-  * <a href="notes/brew.md">Brew</a>: package manager
-  * <a href="notes/mas.md">Mac App Store (MAS)</a>: command line interface
+  * <a href="notes/brew.md">brew.md</a>: Brew package manager
+  * <a href="notes/mas.md">mas.md</a>: Mac App Store (MAS) command line interface
 
 Scripts:
 
