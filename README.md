@@ -86,7 +86,11 @@ We add many applications, and we have big lists of our favorites.
 
 ## Defaults
 
-We set many system preferences and application defaults by using the command `defaults write`; see our script <a href="bin/defaults-write-our-favorites.sh">defaults-write-our-favorites.sh</a>.
+We set many system preferences and application defaults by using the command `defaults write`.
+
+Script:
+
+  * <a href="bin/defaults-write-our-favorites.sh">defaults-write-our-favorites.sh</a>.
 
 
 ## Brew, Cask, MAS
@@ -95,6 +99,11 @@ Brew, Cask, and Mac App Store (MAS), are all very useful for installing apps via
 
   * <a href="notes/brew.md">Brew</a>: package manager; see our script <a href="bin/brew-install-our-favorites.sh">brew-install-our-favorites.sh</a>.
   * <a href="notes/mas.md">Mac App Store (MAS)</a>: command line interface; see our script <a href="bin/mas-install-our-favorites.sh">mas-install-our-favorites.sh</a>.
+
+Scripts:
+
+  * <a href="bin/brew-install-our-favorites.sh">brew-install-our-favorites.sh</a>
+  * <a href="bin/mas-install-our-favorites.sh">mas-install-our-favorites.sh</a>
 
 
 ## Sysadmin notes
