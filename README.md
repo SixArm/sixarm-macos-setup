@@ -23,7 +23,7 @@ These notes continue with more advanced information, suitable for people who are
 We use Apple macOS 10.12 a.k.a. Sierra. We expect most of these notes will work on many versions of macOS.
 
 
-<h2><a name="setup-assistant">Setup Assistant</a>
+<h2><a name="setup-assistant">Setup Assistant</a></h2>
 
 * Turn on your new computer; this launches the Mac Setup Assistant.
 
