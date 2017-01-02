@@ -1,8 +1,13 @@
-# Gathered from many different sources,
-# including mathias bynens,
-# https://github.com/stianeikeland/dotfiles/edit/master/bin/sanemacdefaults.sh
-# https://github.com/mathiasbynens/dotfiles
-# https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/
+# Demo file that shows how to script `defaults write`
+# to set many system preferences and application settings.
+#
+# These are gathered from many different sources.
+#
+# Thanks:
+#   * mathias bynens
+#   * https://github.com/stianeikeland/dotfiles/edit/master/bin/sanemacdefaults.sh
+#   * https://github.com/mathiasbynens/dotfiles
+#   * https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/
 
 
 ## NSGlobalDomain
