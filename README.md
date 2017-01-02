@@ -10,7 +10,7 @@ Contents:
 * [FileVault](#filevault)
 * [System Preferences and Defaults](#set-system-preferences-and-defaults)
 * [Applications](#applications)
-* [For advanced users](#for-advanced-users) (brew, cask, mas, security, and much more)
+* [For advanced users - brew, cask, mas, security, and more](#for-advanced-users)
 * [See also](#see-also)
 
 
@@ -124,8 +124,6 @@ Brew, Cask, and Mac App Store (MAS), are all very useful for installing apps via
   * <a href="notes/chef.md">chef.md</a>: Chef system manager
   * <a href="notes/virtualhosts.md">virtualhosts.md</a>: Virtual hosts
 
-
-# Conclusion
 
 <h2><a name="see-also">See Also</a></h2>
 
