@@ -1,5 +1,44 @@
 # Applications to download
 
+## App Store
+
+The Apple App Store has many applications.
+
+* Typical users: the App Store is a good way to install your apps.
+
+* Advanced users: you may prefer to use brew, cask, mas, and so on.
+
+Good for everyone and free:
+
+  * Alfred: productivity using shortcuts and launchers
+  * Cloud: simple file sharing by sending a link
+  * FaceTime: video chatting
+  * iPhoto: mananging photos
+  * iMovie: video player and maker
+  * GarageBand: music creator
+  * Evernote: for taking notes
+  * Kindle: for reading books bought at Amazon
+  * Wunderlist: to do list
+  * The Unarchiver
+  * Twitter: social networking
+  * Facebook: social networking
+  * Simplenote: to do list
+  * Mint: for tracking money in your bank accounts
+  * Caffeine: to keep the computer from going to sleep
+  * Pin for Pinterest: for pinning images
+  * Fotor: photo editor
+
+Good for developers:
+
+  * Affinity Photo: image editor similar to Photoshop and Illustrator
+  * Xcode
+  * Memory Clean: defrags RAM after large uses
+  * Coffitivity: plays ambient noise of coffeeshops
+  * Dash: help documentation for lots of softwar
+
+
+## Application downloads
+
 Good for everyone:
 
   * <a href="http://adium.im">Adium</a> - instant messenging
