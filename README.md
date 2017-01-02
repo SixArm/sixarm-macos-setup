@@ -69,7 +69,7 @@ We set a bunch of system preferences to customize our Desktop, Dock, Keyboard, S
 
 * For typical users: you can pick and choose from our complete list of <a href="notes/system_preferences.md">System Preferences</a>
 
-* Advanced users: run our <a href="bin/defaults.sh">defaults script</a>.
+* Advanced users: run our <a href="bin/defaults-write-our-favorites.sh">defaults script</a>.
 
 
 <h2><a name="applications">Applications</a></h2>
