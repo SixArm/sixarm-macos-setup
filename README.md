@@ -2,16 +2,30 @@
 
 How to set up a new Mac computer? These notes show how our teams do it.
 
-* These notes start with the basics, suitable for everyone.
+Contents:
 
-* These notes continue with more advanced information, suitable for people who are developers and programmers.
+* [Introduction](#introduction)
+* [Setup Assistant](#setup-assistant)
+* [Software Update](#software-update)
+* [FileVault](#filevault)
+* [System Preferences and Defaults](#set-system-preferences-and-defaults)
+* [Applications](#applications)
+* [For advanced users](#for-advanced-users) (brew, cask, mas, security, and much more)
+* [See also](#see-also)
 
-* We use Apple macOS 10.12 a.k.a. Sierra. We expect most of these notes will work on many versions of macOS.
+
+<h2><a name="introduction">Introduction</a></h2>
+
+These notes start with the basics, suitable for typical users.
+
+These notes continue with more advanced information, suitable for people who are developers and programmers.
+
+We use Apple macOS 10.12 a.k.a. Sierra. We expect most of these notes will work on many versions of macOS.
 
 
-## Turn on your computuer
+<h2><a name="setup-assistant">Setup Assistant</a>
 
-When you turn the computer on, the Setup Assistant launches.
+* Turn on your new computer; this launches the Mac Setup Assistant.
 
 * Enter your language, time zone, Apple ID, and so on.
 
@@ -22,7 +36,7 @@ When you turn the computer on, the Setup Assistant launches.
 * If you want to use iCloud, do it.
 
 
-## Do a software update
+<h2><a name="software-update">Software Update</a></h2>
 
 Choose the Apple menu, then "Software Update...".
 
@@ -31,7 +45,7 @@ Choose the Apple menu, then "Software Update...".
 * This step may take a while because macOS updates tend to be large to download.
 
 
-## Enable FileVault security
+<h2><a name="filevault">FileVault</a></h2>
 
 Choose the Apple menu, then choose "System Preferences....", then "FileVault", then turn it on.
 
@@ -40,7 +54,7 @@ Choose the Apple menu, then choose "System Preferences....", then "FileVault", t
 * This step may take a while because macOS is adding encryption to your entire system.
 
 
-## Connect your iPhone, iPad, etc.
+<h2><a name="connect-your-iphone-ipad-etc">Connect your iPhone, iPad, etc.</a></h2>
 
 Do you want to sync an iPhone, iPad, or other device? If so, connect these now.
 
@@ -49,7 +63,7 @@ Do you want to sync an iPhone, iPad, or other device? If so, connect these now.
 * If you use iTunes, then you can have iTunes make a backup of your device now.
 
 
-## Set System Preferences & Defaults
+<h2><a name="system-preferences-and-defaults">System Preferences and Defaults</a></h2>
 
 We set a bunch of system preferences to customize our Desktop, Dock, Keyboard, Sound, and so on.
 
@@ -58,9 +72,9 @@ We set a bunch of system preferences to customize our Desktop, Dock, Keyboard, S
 * Advanced users: run our <a href="bin/defaults.sh">defaults script</a>.
 
 
-## Applications
+<h2><a name="applications">Applications</a></h2>
 
-We use many applications. We have lists of our favorites.
+We add many applications, and we have big lists of our favorites.
 
 * Typical users: you can pick and choose using our list of <a href="notes/applications.md">applications</a>.
 
@@ -111,6 +125,8 @@ Brew, Cask, and Mac App Store (MAS), are all very useful for installing apps via
   * <a href="notes/virtualhosts.md">virtualhosts.md</a>: Virtual hosts
 
 
-## See Also
+# Conclusion
+
+<h2><a name="see-also">See Also</a></h2>
 
 * [Setting up a Brand New Mac for Development by Tania Rascia](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
