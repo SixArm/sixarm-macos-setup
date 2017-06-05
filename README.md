@@ -20,43 +20,47 @@ These notes start with the basics, suitable for typical users.
 
 These notes continue with more advanced information, suitable for people who are developers and programmers.
 
-We use Apple macOS 10.12 a.k.a. Sierra. We expect most of these notes will work on many versions of macOS.
+We use Apple macOS current release. We expect most of these notes will work on many versions of macOS.
 
 
 <h2><a name="setup-assistant">Setup Assistant</a></h2>
 
-* Turn on your new computer; this launches the Mac Setup Assistant.
+To setup:
 
-* Enter your language, time zone, Apple ID, and so on.
+1. Turn on your new computer. This launches the Mac Setup Assistant, which prompts you for your preferred language, time zone, etc.
 
-* If you already use a different Mac computer, and you want to do a migration of all your files, then you can use the “Migration Assistant”. We prefer to skip this step because we prefef to set up our computer from scratch.
+2. If you already use a different Mac computer, and you want to do a migration of all your files, then you can use the “Migration Assistant”. We prefer to skip this step because we prefer to set up our computer from scratch.
 
-* Register for a personal Apple Id, if you don't already have one.
-
-* If you want to use iCloud, do it.
+3. Register for a personal Apple Id, if you don't already have one. If you want to use iCloud, do it.
 
 
 <h2><a name="software-update">Software Update</a></h2>
 
-Choose the Apple menu, then "Software Update...".
+To update your software:
+
+* Choose the Apple menu, then "Software Update...".
 
 * This step downloads all the current updates for your system, such as bug fixes, security patches, and feature improvements.
 
-* This step may take a while because macOS updates tend to be large to download.
+* This step may take a while because macOS updates tend to be large to download. This step may require rebooting.
 
 
 <h2><a name="filevault">FileVault</a></h2>
 
-Choose the Apple menu, then choose "System Preferences....", then "FileVault", then turn it on.
+To use FileVault to encrypt your entire drive:
 
-* This step encrypts your entire drive.
+* Choose the Apple menu, then "System Preferences....", then "FileVault", then turn on FileVault.
 
-* This step may take a while because macOS is adding encryption to your entire system.
+* Write your FileVault password in a secure place; you must have this if you ever want to recover your system.
+
+* This step may take a while, and may require rebooting, because macOS is adding encryption to your entire system.
 
 
 <h2><a name="connect-your-iphone-ipad-etc">Connect your iPhone, iPad, etc.</a></h2>
 
-Do you want to sync an iPhone, iPad, or other device? If so, connect these now.
+Do you want to sync an iPhone, iPad, or other device? 
+
+* If so, connect these now.
 
 * You may want to launch iTunes, because this shows you what is synchronizing.
 
@@ -67,9 +71,9 @@ Do you want to sync an iPhone, iPad, or other device? If so, connect these now.
 
 We set a bunch of system preferences to customize our Desktop, Dock, Keyboard, Sound, and so on.
 
-* For typical users: you can pick and choose from our complete list of <a href="notes/system_preferences.md">System Preferences</a>
+* Typical users: you can pick and choose from our complete list of <a href="notes/system_preferences.md">System Preferences</a>
 
-* Advanced users: run our <a href="bin/defaults-write-our-favorites.sh">defaults script</a>.
+* Advanced users: you can run our <a href="bin/defaults-write-our-favorites.sh">defaults script</a>.
 
 
 <h2><a name="applications">Applications</a></h2>
@@ -78,7 +82,7 @@ We add many applications, and we have big lists of our favorites.
 
 * Typical users: you can pick and choose using our list of <a href="notes/applications.md">applications</a>.
 
-* Advanced users: you may prefer to use our scripts for brew, cask, mas, and so on. See below for these.
+* Advanced users: you run our scripts for brew, cask, mas, and so on. See below for these.
 
 
 # For Advanced Users
