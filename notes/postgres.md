@@ -6,10 +6,14 @@ Install:
 
     brew install postgresql
 
+Start on startup:
+
+    brew services start postgresql
+  
 Results:
 
-    /usr/local//Cellar/postgresql/9.1.3
-
+    /usr/local/Cellar/postgresql/9.1.3
+    
 Brew creates symlinks:
 
     $ ls -l /usr/local/bin/pg_ctl

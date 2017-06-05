@@ -3,7 +3,7 @@
 
 ## Install
 
-MySQL has many options on Lion:
+MySQL has many options on macOS:
 
   * MySQL comes preinstalled
   * Download the Mac PKG file

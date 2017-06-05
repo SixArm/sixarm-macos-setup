@@ -97,46 +97,41 @@ Script:
 
 Brew, Cask, and Mac App Store (MAS), are all very useful for installing apps via the command line. These are the best Mac package managers in our opinion.
 
-  * <a href="notes/brew.md">brew.md</a>: Brew package manager
-  * <a href="notes/mas.md">mas.md</a>: Mac App Store (MAS) command line interface
-
-Scripts:
-
-  * <a href="bin/brew-install-our-favorites.sh">brew-install-our-favorites.sh</a>
-  * <a href="bin/mas-install-our-favorites.sh">mas-install-our-favorites.sh</a>
+* <a href="notes/brew.md">brew.md</a>: Brew package manager
+* <a href="notes/mas.md">mas.md</a>: Mac App Store (MAS) command line interface
 
 
 ## Sysadmin notes
 
-  * <a href="notes/admin.md">admin.md</a>: Ensure our user can administer the system
-  * <a href="notes/environment.md">environment.md</a>: Use /etc/environment
-  * <a href="notes/spotlight.md">Spotlight</a>: skip index on a bunch of folders
+* <a href="notes/admin.md">admin.md</a>: Ensure our user can administer the system
+* <a href="notes/environment.md">environment.md</a>: Use /etc/environment
+* <a href="notes/spotlight.md">Spotlight</a>: skip index on a bunch of folders
 
 
 ## Developer notes
 
-  * <a href="notes/git.md">git.md</a>: Git version control</a>
-  * <a href="notes/adium.md">adium.md</a>: Adium instant messenger settings</a>
-  * <a href="notes/osx-cpu-temp.md">osx-cpu-temp.md</a>: Command to show the OSX CPU temperature</a>
-  * <a href="notes/karabiner.md">karabiner.md</a>: Karabiner changes the key "caps lock" to "control" and "escape".
+* <a href="notes/git.md">git.md</a>: Git version control</a>
+* <a href="notes/adium.md">adium.md</a>: Adium instant messenger settings</a>
+* <a href="notes/osx-cpu-temp.md">osx-cpu-temp.md</a>: Command to show the OSX CPU temperature</a>
+* <a href="notes/karabiner.md">karabiner.md</a>: Karabiner changes the key "caps lock" to "control" and "escape".
 
 
 ## Database notes
 
-  * <a href="notes/mysql.md">mysql.md</a>: MySQL database
-  * <a href="notes/postgres.md">postgres</a>: Postgres database, including Ruby pg gem</a>
+* <a href="notes/mysql.md">mysql.md</a>: MySQL database</a>
+* <a href="notes/postgres.md">postgres</a>: Postgres database</a>
 
 
 ## Programming notes
 
-  * <a href="notes/xcode.md">xcode.md</a>: Xcode development tools</a>
-  * <a href="notes/gcc.md">gcc.md</a>: Gnu Compiler Collection
-  * <a href="notes/emacs.md">emacs.md</a>: Emacs text editor</a>
-  * <a href="notes/iterm2.md">iterm2.md</a>: iTerm2 terminal emulator for Unix shell commands
-  * <a href="notes/ruby.md">ruby.md</a>: Ruby programming
-  * <a href="notes/java.md">java.md</a>: Java programming
-  * <a href="notes/chef.md">chef.md</a>: Chef system manager
-  * <a href="notes/virtualhosts.md">virtualhosts.md</a>: Virtual hosts
+* <a href="notes/xcode.md">xcode.md</a>: Xcode development tools</a>
+* <a href="notes/gcc.md">gcc.md</a>: Gnu Compiler Collection
+* <a href="notes/emacs.md">emacs.md</a>: Emacs text editor</a>
+* <a href="notes/iterm2.md">iterm2.md</a>: iTerm2 terminal emulator for Unix shell commands
+* <a href="notes/ruby.md">ruby.md</a>: Ruby programming
+* <a href="notes/java.md">java.md</a>: Java programming
+* <a href="notes/chef.md">chef.md</a>: Chef system manager
+* <a href="notes/virtualhosts.md">virtualhosts.md</a>: Virtual hosts
 
 
 <h2><a name="see-also">See Also</a></h2>
