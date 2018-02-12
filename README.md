@@ -8,13 +8,19 @@ Contents:
 * [Setup Assistant](#setup-assistant)
 * [Software Update](#software-update)
 * [FileVault](#filevault)
-* [System Preferences and Defaults](#set-system-preferences-and-defaults)
+* [Connect your iPhone, iPad, etc.](#connect-your-iphone-ipad-etc-)
+* [System Preferences and Defaults](#system-preferences-and-defaults)
 * [Applications](#applications)
-* [For advanced users - brew, cask, mas, security, and more](#for-advanced-users)
-* [See also](#see-also)
+* [Defaults](#defaults)
+* [Brew, Cask, MAS](#brew-cask-mas)
+* [Sysadmin notes](#sysadmin-notes)
+* [Developer notes](#developer-notes)
+* [Database notes](#database-notes)
+* [Programming notes](#programming-notes)
+* [See Also](#see-also)
 
 
-<h2><a name="introduction">Introduction</a></h2>
+## Introduction
 
 These notes start with the basics, suitable for typical users.
 
@@ -23,7 +29,7 @@ These notes continue with more advanced information, suitable for people who are
 We use Apple macOS current release. We expect most of these notes will work on many versions of macOS.
 
 
-<h2><a name="setup-assistant">Setup Assistant</a></h2>
+## Setup Assistant
 
 To setup:
 
@@ -34,7 +40,7 @@ To setup:
 3. Register for a personal Apple Id, if you don't already have one. If you want to use iCloud, do it.
 
 
-<h2><a name="software-update">Software Update</a></h2>
+## Software Update
 
 To update your software:
 
@@ -45,7 +51,7 @@ To update your software:
 * This step may take a while because macOS updates tend to be large to download. This step may require rebooting.
 
 
-<h2><a name="filevault">FileVault</a></h2>
+## FileVault
 
 To use FileVault to encrypt your entire drive:
 
@@ -56,7 +62,7 @@ To use FileVault to encrypt your entire drive:
 * This step may take a while, and may require rebooting, because macOS is adding encryption to your entire system.
 
 
-<h2><a name="connect-your-iphone-ipad-etc">Connect your iPhone, iPad, etc.</a></h2>
+## Connect your iPhone, iPad, etc.
 
 Do you want to sync an iPhone, iPad, or other device? 
 
@@ -67,7 +73,7 @@ Do you want to sync an iPhone, iPad, or other device?
 * If you use iTunes, then you can have iTunes make a backup of your device now.
 
 
-<h2><a name="system-preferences-and-defaults">System Preferences and Defaults</a></h2>
+## System Preferences and Defaults
 
 We set a bunch of system preferences to customize our Desktop, Dock, Keyboard, Sound, and so on.
 
@@ -76,7 +82,7 @@ We set a bunch of system preferences to customize our Desktop, Dock, Keyboard, S
 * Advanced users: you can run our <a href="bin/defaults-write-our-favorites.sh">defaults script</a>.
 
 
-<h2><a name="applications">Applications</a></h2>
+## Applications
 
 We add many applications, and we have big lists of our favorites.
 
@@ -138,6 +144,6 @@ Brew, Cask, and Mac App Store (MAS), are all very useful for installing apps via
 * <a href="notes/virtualhosts.md">virtualhosts.md</a>: Virtual hosts
 
 
-<h2><a name="see-also">See Also</a></h2>
+## See Also
 
 * [Setting up a Brand New Mac for Development by Tania Rascia](https://www.taniarascia.com/setting-up-a-brand-new-mac-for-development/)
