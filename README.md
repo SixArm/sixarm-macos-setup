@@ -79,7 +79,7 @@ We set a bunch of system preferences to customize our Desktop, Dock, Keyboard, S
 
 * Typical users: you can pick and choose from our complete list of <a href="notes/system_preferences.md">System Preferences</a>
 
-* Advanced users: you can run our <a href="bin/defaults-write-our-favorites.sh">defaults script</a>.
+* Advanced users: you can run our script for <a href="https://github.com/sixarm/mac-defaults">mac-defaults</a>.
 
 
 ## Applications
