@@ -17,6 +17,7 @@ Contents:
 * [Developer notes](#developer-notes)
 * [Database notes](#database-notes)
 * [Programming notes](#programming-notes)
+* [JetBrains notes](#jetbrains-notes)
 * [See Also](#see-also)
 
 
@@ -142,6 +143,16 @@ Brew, Cask, and Mac App Store (MAS), are all very useful for installing apps via
 * <a href="notes/java.md">java.md</a>: Java programming
 * <a href="notes/chef.md">chef.md</a>: Chef system manager
 * <a href="notes/virtualhosts.md">virtualhosts.md</a>: Virtual hosts
+
+
+## JetBrains notes
+
+We use JetBrains programming software, including Toolbox, DataGrip, WebStorm, etc.
+
+Currently there is no way to install these using brew, nor the App Store, so we do this:
+
+* Download JetBrains Toolbox, and install it to /Applcations. (Not to a user account location).
+* Set JetBrains Toolbox to install everything to /Applications/JetBrains. (This is so we can more-easily use the software with multiple user accounts on the same machine).
 
 
 ## See Also
