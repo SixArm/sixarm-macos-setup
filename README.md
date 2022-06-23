@@ -136,6 +136,7 @@ Brew, Cask, and Mac App Store (MAS), are all very useful for installing apps via
 ## Programming notes
 
 * <a href="notes/xcode.md">xcode.md</a>: Xcode development tools</a>
+* <a href="notes/asdf.md">gcc.md</a>: ASDF version manager</a>
 * <a href="notes/gcc.md">gcc.md</a>: Gnu Compiler Collection
 * <a href="notes/emacs.md">emacs.md</a>: Emacs text editor</a>
 * <a href="notes/iterm2.md">iterm2.md</a>: iTerm2 terminal emulator for Unix shell commands
