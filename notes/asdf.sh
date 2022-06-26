@@ -1,21 +1,16 @@
-# ASDF
+#!/bin/sh
+set -euf
 
-We like using the ASDF version manager.
+# ASDF version manager
 
-Install:
+## Install
 
-```sh
 brew install asdf
-```
 
-Enable:
+## Enable
 
-```sh
 echo -e "\n. $(brew --prefix asdf)/libexec/asdf.sh" >> ${ZDOTDIR:-$HOME}/.zshrc
-```
 
-Favorites:
+## Favorites
 
-```
 curl --proto '=https' --tlsv1.2 -sSf https://raw.githubusercontent.com/SixArm/asdf-install-favorites/main/asdf-install-favorites | sh
-```
