@@ -1,6 +1,6 @@
-# SixArm Mac Setup
+# SixArm macOS Setup
 
-How to set up a new Mac computer? These notes show how our teams do it.
+How to set up a new macOS computer? These notes show how our teams do it.
 
 Contents:
 
