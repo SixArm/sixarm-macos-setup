@@ -1,0 +1,4 @@
+# Set names
+sudo scutil --set HostName foo.example.com
+sudo scutil --set LocalHostName foo
+sudo scutil --set ComputerName foo
