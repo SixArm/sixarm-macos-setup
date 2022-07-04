@@ -1,0 +1,27 @@
+#!/bin/sh
+
+# To find desktop pictures for macOS 12.x Monterey try this:
+#
+# ```sh
+# find '/System/Library/Desktop Pictures' -not -path '*/.*'
+# ```
+#
+# To find desktop pictures for macOS 11.x Big Sur try this:
+#
+# ```sh
+# find '/Library/Desktop Pictures' -not -path '*/.*'
+# ```
+#
+# Choose any file you want, such as the solid color stone:
+#
+# ```sh
+# file="/System/Library/Desktop Pictures/Solid Colors/Stone.png"
+# ```
+#
+# Set the picture:
+#
+# ```sh
+#  osascript -e "tell application \"System Events\" to tell every desktop to set picture to \"${file}\" as POSIX file"
+# ```
+
+osascript -e "tell application \"System Events\" to tell every desktop to set picture to \"/System/Library/Desktop Pictures/Solid Colors/Stone.png\" as POSIX file"
