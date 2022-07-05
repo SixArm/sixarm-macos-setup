@@ -1,6 +1,6 @@
 git config --global init.defaultBranch main
 
-echo "Be sure to do:"
+echo "Be sure to configure your user information:"
 echo ""
 echo "    git config --global user.name \"Your Name\""
-echo "    git config --global user.email you@example.com
+echo "    git config --global user.email \"you@example.com\""
