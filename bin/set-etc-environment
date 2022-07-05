@@ -1,0 +1,7 @@
+#!/bin/sh
+
+# Copy from our preferred repo into our preferred /etc/environment 
+#
+# THIS IS DANGEROUS!
+
+cp /opt/sixarm/sixarm_unix_environment/environment /etc/ && source /etc/environment
